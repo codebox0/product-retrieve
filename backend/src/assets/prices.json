@@ -1,0 +1,3362 @@
+[
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "AM",
+    "currency": "HKD",
+    "amount": 3679,
+    "begin_date": "2023-05-10T16:20:48.148Z",
+    "end_date": "2025-03-06T09:03:05.289Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "BE",
+    "currency": "NGN",
+    "amount": 8690,
+    "begin_date": "2023-05-26T13:34:42.171Z",
+    "end_date": "2025-03-13T18:21:56.226Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "CO",
+    "currency": "PKR",
+    "amount": 2750,
+    "begin_date": "2023-05-02T14:03:02.083Z",
+    "end_date": "2023-09-18T20:33:43.883Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "FJ",
+    "currency": "GMD",
+    "amount": 2600,
+    "begin_date": "2023-06-05T16:34:04.171Z",
+    "end_date": "2024-12-24T16:04:38.182Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "BQ",
+    "currency": "CZK",
+    "amount": 5078,
+    "begin_date": "2023-06-10T01:53:10.127Z",
+    "end_date": "2025-01-09T02:40:06.427Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "JM",
+    "currency": "SRD",
+    "amount": 4195,
+    "begin_date": "2023-06-19T18:20:36.897Z",
+    "end_date": "2024-10-30T18:44:21.947Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "BL",
+    "currency": "BHD",
+    "amount": 4751,
+    "begin_date": "2023-05-03T19:30:49.868Z",
+    "end_date": "2023-10-29T16:23:06.722Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "CA",
+    "currency": "EEK",
+    "amount": 6979,
+    "begin_date": "2023-05-30T07:12:32.932Z",
+    "end_date": "2024-05-18T00:19:40.181Z"
+  },
+  {
+    "SMC": "EA6YOLQBZCJ1906",
+    "country": "BE",
+    "currency": "SOS",
+    "amount": 1129,
+    "begin_date": "2023-05-01T09:11:34.826Z",
+    "end_date": "2024-02-18T14:44:47.251Z"
+  },
+  {
+    "SMC": "9YO6FWXMELF7893",
+    "country": "ZM",
+    "currency": "BZD",
+    "amount": 2443,
+    "begin_date": "2023-06-01T15:52:12.526Z",
+    "end_date": "2023-07-22T00:28:22.824Z"
+  },
+  {
+    "SMC": "FCQQJQL850O9744",
+    "country": "GW",
+    "currency": "BAM",
+    "amount": 8745,
+    "begin_date": "2023-04-30T14:30:12.405Z",
+    "end_date": "2024-07-27T03:43:04.851Z"
+  },
+  {
+    "SMC": "FCQQJQL850O9744",
+    "country": "IL",
+    "currency": "WST",
+    "amount": 9550,
+    "begin_date": "2023-07-18T04:14:04.040Z",
+    "end_date": "2023-09-06T01:46:43.756Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "MU",
+    "currency": "DJF",
+    "amount": 4913,
+    "begin_date": "2023-07-16T18:53:17.242Z",
+    "end_date": "2025-01-25T00:13:34.344Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "CY",
+    "currency": "MOP",
+    "amount": 9044,
+    "begin_date": "2023-07-24T06:19:24.924Z",
+    "end_date": "2024-07-08T22:12:49.797Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "IM",
+    "currency": "FJD",
+    "amount": 7738,
+    "begin_date": "2023-04-26T01:27:55.499Z",
+    "end_date": "2023-09-15T02:01:07.145Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "CC",
+    "currency": "HTG",
+    "amount": 2046,
+    "begin_date": "2023-06-06T14:28:05.928Z",
+    "end_date": "2025-02-11T03:34:31.498Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "DE",
+    "currency": "RUB",
+    "amount": 3013,
+    "begin_date": "2023-06-13T03:07:34.294Z",
+    "end_date": "2024-11-28T21:24:22.926Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "MK",
+    "currency": "TRY",
+    "amount": 3940,
+    "begin_date": "2023-05-19T07:41:06.429Z",
+    "end_date": "2023-09-02T15:37:15.167Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "VU",
+    "currency": "XCD",
+    "amount": 8675,
+    "begin_date": "2023-06-19T01:13:55.379Z",
+    "end_date": "2024-10-03T12:09:33.778Z"
+  },
+  {
+    "SMC": "9G37Z28O0WL9361",
+    "country": "KR",
+    "currency": "ARS",
+    "amount": 2079,
+    "begin_date": "2023-06-14T19:08:41.282Z",
+    "end_date": "2024-03-07T23:35:35.609Z"
+  },
+  {
+    "SMC": "WXCK7816RWC8049",
+    "country": "NA",
+    "currency": "KES",
+    "amount": 9038,
+    "begin_date": "2023-06-12T23:36:07.148Z",
+    "end_date": "2023-12-26T23:32:55.652Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "HT",
+    "currency": "SLL",
+    "amount": 6774,
+    "begin_date": "2023-06-16T03:37:31.114Z",
+    "end_date": "2023-12-20T17:21:42.838Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "VN",
+    "currency": "GYD",
+    "amount": 3781,
+    "begin_date": "2023-04-17T19:00:18.742Z",
+    "end_date": "2023-10-25T02:38:33.885Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "IQ",
+    "currency": "COP",
+    "amount": 6840,
+    "begin_date": "2023-05-24T04:59:59.309Z",
+    "end_date": "2025-01-16T13:56:07.781Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "ST",
+    "currency": "VUV",
+    "amount": 8925,
+    "begin_date": "2023-05-08T09:20:59.273Z",
+    "end_date": "2024-09-14T18:12:42.329Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "AM",
+    "currency": "MVR",
+    "amount": 7290,
+    "begin_date": "2023-07-13T17:03:03.683Z",
+    "end_date": "2023-10-13T11:25:09.677Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "SJ",
+    "currency": "GHS",
+    "amount": 4825,
+    "begin_date": "2023-07-13T19:57:23.358Z",
+    "end_date": "2023-08-22T15:32:26.376Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "GP",
+    "currency": "LYD",
+    "amount": 4495,
+    "begin_date": "2023-05-15T07:51:33.420Z",
+    "end_date": "2023-09-03T15:31:34.519Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "AM",
+    "currency": "BMD",
+    "amount": 8053,
+    "begin_date": "2023-06-03T19:33:09.667Z",
+    "end_date": "2023-10-14T09:34:26.772Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "KE",
+    "currency": "EGP",
+    "amount": 4799,
+    "begin_date": "2023-05-26T08:21:35.174Z",
+    "end_date": "2025-02-09T02:51:56.746Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "GG",
+    "currency": "KPW",
+    "amount": 1817,
+    "begin_date": "2023-05-31T05:16:19.393Z",
+    "end_date": "2025-01-21T09:27:08.911Z"
+  },
+  {
+    "SMC": "NHV1YTN3TJO4259",
+    "country": "LK",
+    "currency": "GNF",
+    "amount": 9395,
+    "begin_date": "2023-06-22T05:22:32.257Z",
+    "end_date": "2023-10-29T17:21:24.712Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "KR",
+    "currency": "ZAR",
+    "amount": 5260,
+    "begin_date": "2023-06-19T10:19:42.197Z",
+    "end_date": "2023-06-15T13:19:32.850Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "YT",
+    "currency": "MOP",
+    "amount": 7131,
+    "begin_date": "2023-07-17T21:52:15.453Z",
+    "end_date": "2025-01-25T07:41:54.926Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "GG",
+    "currency": "ZMW",
+    "amount": 3547,
+    "begin_date": "2023-06-14T08:39:41.659Z",
+    "end_date": "2024-01-31T00:20:11.978Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "BZ",
+    "currency": "THB",
+    "amount": 3763,
+    "begin_date": "2023-06-24T01:17:37.870Z",
+    "end_date": "2024-10-20T01:07:03.874Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "PH",
+    "currency": "MXN",
+    "amount": 8569,
+    "begin_date": "2023-05-22T15:55:10.722Z",
+    "end_date": "2024-05-15T09:53:58.885Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "PK",
+    "currency": "INR",
+    "amount": 4083,
+    "begin_date": "2023-06-20T03:21:01.257Z",
+    "end_date": "2025-01-03T15:15:21.833Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "CR",
+    "currency": "MVR",
+    "amount": 3234,
+    "begin_date": "2023-06-07T07:32:20.218Z",
+    "end_date": "2024-07-09T07:03:53.045Z"
+  },
+  {
+    "SMC": "6V8IGSEEBZA5927",
+    "country": "DZ",
+    "currency": "KES",
+    "amount": 2282,
+    "begin_date": "2023-07-12T13:15:06.708Z",
+    "end_date": "2025-01-11T07:09:20.695Z"
+  },
+  {
+    "SMC": "J132B77NLOQ3693",
+    "country": "RO",
+    "currency": "ILS",
+    "amount": 4267,
+    "begin_date": "2023-05-15T22:19:07.419Z",
+    "end_date": "2023-11-11T11:32:26.982Z"
+  },
+  {
+    "SMC": "J132B77NLOQ3693",
+    "country": "EH",
+    "currency": "NZD",
+    "amount": 5396,
+    "begin_date": "2023-06-14T14:10:45.591Z",
+    "end_date": "2024-08-14T10:18:33.118Z"
+  },
+  {
+    "SMC": "J132B77NLOQ3693",
+    "country": "BW",
+    "currency": "KYD",
+    "amount": 9646,
+    "begin_date": "2023-06-03T11:08:14.063Z",
+    "end_date": "2023-07-15T17:49:05.528Z"
+  },
+  {
+    "SMC": "J132B77NLOQ3693",
+    "country": "QA",
+    "currency": "MOP",
+    "amount": 2993,
+    "begin_date": "2023-06-19T17:55:45.384Z",
+    "end_date": "2023-07-28T06:10:47.674Z"
+  },
+  {
+    "SMC": "J132B77NLOQ3693",
+    "country": "NZ",
+    "currency": "MMK",
+    "amount": 7058,
+    "begin_date": "2023-06-30T04:56:45.405Z",
+    "end_date": "2024-06-22T17:26:10.307Z"
+  },
+  {
+    "SMC": "J132B77NLOQ3693",
+    "country": "SG",
+    "currency": "SCR",
+    "amount": 5904,
+    "begin_date": "2023-05-29T04:46:57.663Z",
+    "end_date": "2024-07-29T23:59:24.485Z"
+  },
+  {
+    "SMC": "XHGICI6UBH13368",
+    "country": "MK",
+    "currency": "PGK",
+    "amount": 2123,
+    "begin_date": "2023-06-02T17:31:21.223Z",
+    "end_date": "2025-05-25T18:35:32.991Z"
+  },
+  {
+    "SMC": "XHGICI6UBH13368",
+    "country": "CC",
+    "currency": "LKR",
+    "amount": 2395,
+    "begin_date": "2023-05-06T20:10:55.333Z",
+    "end_date": "2024-12-14T08:31:20.190Z"
+  },
+  {
+    "SMC": "XHGICI6UBH13368",
+    "country": "CM",
+    "currency": "MAD",
+    "amount": 6161,
+    "begin_date": "2023-04-28T14:46:35.426Z",
+    "end_date": "2024-09-23T23:07:12.412Z"
+  },
+  {
+    "SMC": "XHGICI6UBH13368",
+    "country": "UA",
+    "currency": "HKD",
+    "amount": 5785,
+    "begin_date": "2023-06-10T07:04:14.251Z",
+    "end_date": "2023-10-01T07:09:30.116Z"
+  },
+  {
+    "SMC": "XHGICI6UBH13368",
+    "country": "MP",
+    "currency": "BRL",
+    "amount": 4110,
+    "begin_date": "2023-06-13T10:43:09.240Z",
+    "end_date": "2025-05-11T06:01:43.197Z"
+  },
+  {
+    "SMC": "KOX0ZTUS8HC8436",
+    "country": "BV",
+    "currency": "LYD",
+    "amount": 6307,
+    "begin_date": "2023-07-10T22:38:01.129Z",
+    "end_date": "2024-10-22T09:23:08.975Z"
+  },
+  {
+    "SMC": "KOX0ZTUS8HC8436",
+    "country": "AU",
+    "currency": "CDF",
+    "amount": 6708,
+    "begin_date": "2023-05-22T20:28:45.199Z",
+    "end_date": "2024-12-18T13:08:21.650Z"
+  },
+  {
+    "SMC": "KOX0ZTUS8HC8436",
+    "country": "RU",
+    "currency": "PYG",
+    "amount": 5476,
+    "begin_date": "2023-06-14T21:53:48.158Z",
+    "end_date": "2024-11-27T12:42:37.948Z"
+  },
+  {
+    "SMC": "KOX0ZTUS8HC8436",
+    "country": "WF",
+    "currency": "MKD",
+    "amount": 7334,
+    "begin_date": "2023-05-14T03:18:31.976Z",
+    "end_date": "2024-03-06T08:46:56.044Z"
+  },
+  {
+    "SMC": "KOX0ZTUS8HC8436",
+    "country": "VN",
+    "currency": "XPT",
+    "amount": 7775,
+    "begin_date": "2023-06-20T13:36:37.851Z",
+    "end_date": "2024-09-28T15:43:40.119Z"
+  },
+  {
+    "SMC": "KOX0ZTUS8HC8436",
+    "country": "TZ",
+    "currency": "XAF",
+    "amount": 3815,
+    "begin_date": "2023-05-28T19:28:57.637Z",
+    "end_date": "2025-01-02T22:53:22.534Z"
+  },
+  {
+    "SMC": "LRFT4B2R3LI6295",
+    "country": "FM",
+    "currency": "COP",
+    "amount": 3436,
+    "begin_date": "2023-05-21T19:35:19.217Z",
+    "end_date": "2025-02-28T08:05:59.767Z"
+  },
+  {
+    "SMC": "6YV3CPOI8521524",
+    "country": "TR",
+    "currency": "DOP",
+    "amount": 9829,
+    "begin_date": "2023-06-14T14:44:33.641Z",
+    "end_date": "2024-07-22T13:44:30.266Z"
+  },
+  {
+    "SMC": "6YV3CPOI8521524",
+    "country": "KM",
+    "currency": "UAH",
+    "amount": 7586,
+    "begin_date": "2023-06-18T05:24:59.838Z",
+    "end_date": "2025-05-17T18:50:49.467Z"
+  },
+  {
+    "SMC": "6YV3CPOI8521524",
+    "country": "TD",
+    "currency": "NAD",
+    "amount": 1611,
+    "begin_date": "2023-06-14T22:00:18.201Z",
+    "end_date": "2023-07-02T17:33:07.917Z"
+  },
+  {
+    "SMC": "6YV3CPOI8521524",
+    "country": "PY",
+    "currency": "CHF",
+    "amount": 4362,
+    "begin_date": "2023-05-27T20:42:32.941Z",
+    "end_date": "2024-09-06T01:17:50.815Z"
+  },
+  {
+    "SMC": "6YV3CPOI8521524",
+    "country": "MT",
+    "currency": "BTN",
+    "amount": 4072,
+    "begin_date": "2023-06-24T19:28:21.670Z",
+    "end_date": "2025-02-02T11:08:19.638Z"
+  },
+  {
+    "SMC": "6YCV1PBINM19977",
+    "country": "KW",
+    "currency": "XBD",
+    "amount": 3020,
+    "begin_date": "2023-06-23T11:10:48.472Z",
+    "end_date": "2024-01-14T13:05:36.056Z"
+  },
+  {
+    "SMC": "6YCV1PBINM19977",
+    "country": "CU",
+    "currency": "LVL",
+    "amount": 1466,
+    "begin_date": "2023-04-19T04:08:19.342Z",
+    "end_date": "2024-09-18T13:47:19.522Z"
+  },
+  {
+    "SMC": "6YCV1PBINM19977",
+    "country": "KI",
+    "currency": "UGX",
+    "amount": 9670,
+    "begin_date": "2023-05-22T10:58:26.969Z",
+    "end_date": "2023-06-26T07:03:52.842Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "MX",
+    "currency": "GEL",
+    "amount": 1194,
+    "begin_date": "2023-06-05T20:15:39.743Z",
+    "end_date": "2025-01-11T22:36:06.230Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "GF",
+    "currency": "HTG",
+    "amount": 3356,
+    "begin_date": "2023-06-17T10:49:54.767Z",
+    "end_date": "2023-10-18T18:52:04.194Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "AW",
+    "currency": "XBC",
+    "amount": 1877,
+    "begin_date": "2023-06-14T11:56:56.750Z",
+    "end_date": "2023-06-25T19:43:06.488Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "SX",
+    "currency": "XOF",
+    "amount": 5255,
+    "begin_date": "2023-06-28T10:52:10.431Z",
+    "end_date": "2023-09-26T03:07:04.541Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "GN",
+    "currency": "EEK",
+    "amount": 7391,
+    "begin_date": "2023-07-28T14:27:25.254Z",
+    "end_date": "2024-05-03T14:08:17.481Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "PY",
+    "currency": "XBA",
+    "amount": 4724,
+    "begin_date": "2023-07-12T22:29:39.543Z",
+    "end_date": "2024-04-08T00:00:50.040Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "CW",
+    "currency": "PKR",
+    "amount": 4273,
+    "begin_date": "2023-07-12T11:39:45.477Z",
+    "end_date": "2024-04-22T03:10:40.297Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "BB",
+    "currency": "USD",
+    "amount": 5414,
+    "begin_date": "2023-06-14T14:16:01.725Z",
+    "end_date": "2024-05-29T02:42:03.173Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "IS",
+    "currency": "BWP",
+    "amount": 3268,
+    "begin_date": "2023-06-01T16:06:12.697Z",
+    "end_date": "2025-01-27T19:08:59.454Z"
+  },
+  {
+    "SMC": "I82J8TJR7U56243",
+    "country": "GY",
+    "currency": "UZS",
+    "amount": 6183,
+    "begin_date": "2023-06-20T09:43:10.129Z",
+    "end_date": "2024-06-18T09:43:12.010Z"
+  },
+  {
+    "SMC": "RBBEUMDG6GW1156",
+    "country": "MO",
+    "currency": "GIP",
+    "amount": 1325,
+    "begin_date": "2023-05-19T00:34:07.729Z",
+    "end_date": "2025-02-12T06:05:33.863Z"
+  },
+  {
+    "SMC": "RBBEUMDG6GW1156",
+    "country": "DJ",
+    "currency": "DZD",
+    "amount": 4722,
+    "begin_date": "2023-07-10T07:57:34.268Z",
+    "end_date": "2024-04-09T13:39:55.618Z"
+  },
+  {
+    "SMC": "RBBEUMDG6GW1156",
+    "country": "SJ",
+    "currency": "XBD",
+    "amount": 9410,
+    "begin_date": "2023-06-02T22:35:29.179Z",
+    "end_date": "2024-09-15T05:03:21.287Z"
+  },
+  {
+    "SMC": "RBBEUMDG6GW1156",
+    "country": "ME",
+    "currency": "GNF",
+    "amount": 1421,
+    "begin_date": "2023-06-03T06:37:36.032Z",
+    "end_date": "2024-12-01T12:29:41.919Z"
+  },
+  {
+    "SMC": "RBBEUMDG6GW1156",
+    "country": "GN",
+    "currency": "XOF",
+    "amount": 2995,
+    "begin_date": "2023-07-27T04:26:13.997Z",
+    "end_date": "2025-05-16T22:20:20.244Z"
+  },
+  {
+    "SMC": "RKFM8MUO7T15338",
+    "country": "ES",
+    "currency": "MWK",
+    "amount": 8392,
+    "begin_date": "2023-05-16T07:56:38.644Z",
+    "end_date": "2023-07-10T00:26:42.252Z"
+  },
+  {
+    "SMC": "RKFM8MUO7T15338",
+    "country": "DJ",
+    "currency": "ARS",
+    "amount": 3014,
+    "begin_date": "2023-06-01T18:51:15.861Z",
+    "end_date": "2023-12-12T16:38:18.915Z"
+  },
+  {
+    "SMC": "RKFM8MUO7T15338",
+    "country": "WS",
+    "currency": "RON",
+    "amount": 9973,
+    "begin_date": "2023-06-07T19:42:40.272Z",
+    "end_date": "2023-10-03T20:26:40.219Z"
+  },
+  {
+    "SMC": "UCS2YQ2H1Q35328",
+    "country": "LS",
+    "currency": "LSL",
+    "amount": 6088,
+    "begin_date": "2023-07-19T17:15:09.117Z",
+    "end_date": "2024-03-13T09:21:23.096Z"
+  },
+  {
+    "SMC": "UCS2YQ2H1Q35328",
+    "country": "RO",
+    "currency": "GNF",
+    "amount": 1580,
+    "begin_date": "2023-05-20T17:10:53.609Z",
+    "end_date": "2024-06-15T02:10:05.081Z"
+  },
+  {
+    "SMC": "UCS2YQ2H1Q35328",
+    "country": "LR",
+    "currency": "HUF",
+    "amount": 8826,
+    "begin_date": "2023-06-05T21:50:53.317Z",
+    "end_date": "2023-11-07T17:33:00.472Z"
+  },
+  {
+    "SMC": "UCS2YQ2H1Q35328",
+    "country": "SX",
+    "currency": "BBD",
+    "amount": 8553,
+    "begin_date": "2023-06-08T02:32:17.138Z",
+    "end_date": "2023-06-19T22:47:20.966Z"
+  },
+  {
+    "SMC": "N5TBD0Z3EAB3649",
+    "country": "MN",
+    "currency": "ILS",
+    "amount": 9323,
+    "begin_date": "2023-07-24T19:48:16.522Z",
+    "end_date": "2025-02-26T04:32:05.610Z"
+  },
+  {
+    "SMC": "N5TBD0Z3EAB3649",
+    "country": "WF",
+    "currency": "AED",
+    "amount": 6737,
+    "begin_date": "2023-06-09T21:45:37.994Z",
+    "end_date": "2023-11-21T05:21:00.042Z"
+  },
+  {
+    "SMC": "N5TBD0Z3EAB3649",
+    "country": "FO",
+    "currency": "KYD",
+    "amount": 5165,
+    "begin_date": "2023-08-01T07:35:03.277Z",
+    "end_date": "2023-09-17T16:33:57.397Z"
+  },
+  {
+    "SMC": "N5TBD0Z3EAB3649",
+    "country": "GB",
+    "currency": "CUP",
+    "amount": 2389,
+    "begin_date": "2023-06-08T02:10:17.309Z",
+    "end_date": "2023-12-04T19:03:14.378Z"
+  },
+  {
+    "SMC": "N5TBD0Z3EAB3649",
+    "country": "TR",
+    "currency": "DOP",
+    "amount": 2486,
+    "begin_date": "2023-06-15T21:37:28.864Z",
+    "end_date": "2024-08-22T14:56:45.424Z"
+  },
+  {
+    "SMC": "N5TBD0Z3EAB3649",
+    "country": "ER",
+    "currency": "CVE",
+    "amount": 1110,
+    "begin_date": "2023-06-24T20:47:12.820Z",
+    "end_date": "2025-03-22T16:03:38.660Z"
+  },
+  {
+    "SMC": "XCYUUEWIPG87741",
+    "country": "KH",
+    "currency": "JPY",
+    "amount": 2408,
+    "begin_date": "2023-06-09T19:39:07.757Z",
+    "end_date": "2024-11-13T03:48:32.051Z"
+  },
+  {
+    "SMC": "XCYUUEWIPG87741",
+    "country": "EE",
+    "currency": "TJS",
+    "amount": 1952,
+    "begin_date": "2023-07-19T06:44:34.971Z",
+    "end_date": "2025-05-21T06:07:15.429Z"
+  },
+  {
+    "SMC": "XCYUUEWIPG87741",
+    "country": "SZ",
+    "currency": "PEN",
+    "amount": 9085,
+    "begin_date": "2023-05-22T16:31:59.465Z",
+    "end_date": "2023-10-06T06:47:41.592Z"
+  },
+  {
+    "SMC": "M657PKBSZLD8577",
+    "country": "YT",
+    "currency": "CZK",
+    "amount": 9674,
+    "begin_date": "2023-05-04T06:58:51.442Z",
+    "end_date": "2025-01-26T01:50:36.268Z"
+  },
+  {
+    "SMC": "M657PKBSZLD8577",
+    "country": "UY",
+    "currency": "KWD",
+    "amount": 8840,
+    "begin_date": "2023-06-24T01:48:15.671Z",
+    "end_date": "2024-03-14T11:54:25.687Z"
+  },
+  {
+    "SMC": "PXJ551PVFWE1381",
+    "country": "TM",
+    "currency": "EGP",
+    "amount": 3749,
+    "begin_date": "2023-06-30T13:19:13.045Z",
+    "end_date": "2025-03-06T03:06:55.969Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "SY",
+    "currency": "ILS",
+    "amount": 7249,
+    "begin_date": "2023-06-09T15:36:50.897Z",
+    "end_date": "2025-03-07T22:17:42.081Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "DM",
+    "currency": "BND",
+    "amount": 2245,
+    "begin_date": "2023-05-11T15:01:41.452Z",
+    "end_date": "2023-10-11T16:22:43.491Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "MK",
+    "currency": "LYD",
+    "amount": 5042,
+    "begin_date": "2023-05-26T18:22:17.399Z",
+    "end_date": "2023-11-11T14:34:46.365Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "DM",
+    "currency": "XBC",
+    "amount": 6970,
+    "begin_date": "2023-04-29T21:28:45.119Z",
+    "end_date": "2024-05-09T07:38:17.406Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "NG",
+    "currency": "IRR",
+    "amount": 4246,
+    "begin_date": "2023-06-22T12:21:34.855Z",
+    "end_date": "2023-10-13T18:34:26.629Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "BA",
+    "currency": "NGN",
+    "amount": 7445,
+    "begin_date": "2023-05-23T05:45:40.967Z",
+    "end_date": "2025-05-20T00:28:46.515Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "PH",
+    "currency": "AZN",
+    "amount": 9294,
+    "begin_date": "2023-06-21T16:56:16.471Z",
+    "end_date": "2023-10-17T20:55:09.695Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "CR",
+    "currency": "TMT",
+    "amount": 5910,
+    "begin_date": "2023-05-03T12:05:54.713Z",
+    "end_date": "2023-11-27T15:08:32.145Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "SS",
+    "currency": "DJF",
+    "amount": 6989,
+    "begin_date": "2023-05-20T00:14:49.770Z",
+    "end_date": "2024-07-09T09:17:28.847Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "AU",
+    "currency": "ANG",
+    "amount": 8065,
+    "begin_date": "2023-06-29T17:10:38.880Z",
+    "end_date": "2023-07-15T18:50:51.739Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "TT",
+    "currency": "PGK",
+    "amount": 8917,
+    "begin_date": "2023-05-24T19:06:52.172Z",
+    "end_date": "2024-10-29T04:24:48.133Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "AR",
+    "currency": "GNF",
+    "amount": 6692,
+    "begin_date": "2023-05-21T04:55:28.056Z",
+    "end_date": "2024-02-12T00:17:56.874Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "CM",
+    "currency": "TTD",
+    "amount": 4557,
+    "begin_date": "2023-04-28T16:01:52.835Z",
+    "end_date": "2024-05-27T09:16:00.535Z"
+  },
+  {
+    "SMC": "D8VDMHXEQBT8052",
+    "country": "BS",
+    "currency": "BZD",
+    "amount": 5276,
+    "begin_date": "2023-05-13T18:30:53.436Z",
+    "end_date": "2023-09-14T06:19:05.619Z"
+  },
+  {
+    "SMC": "VXAM3WP7VYN7246",
+    "country": "GL",
+    "currency": "DOP",
+    "amount": 5767,
+    "begin_date": "2023-05-07T22:39:01.581Z",
+    "end_date": "2024-09-03T14:21:58.786Z"
+  },
+  {
+    "SMC": "VXAM3WP7VYN7246",
+    "country": "ER",
+    "currency": "EGP",
+    "amount": 6820,
+    "begin_date": "2023-05-11T13:20:04.244Z",
+    "end_date": "2023-07-19T01:24:56.080Z"
+  },
+  {
+    "SMC": "VXAM3WP7VYN7246",
+    "country": "RE",
+    "currency": "AFN",
+    "amount": 8839,
+    "begin_date": "2023-06-06T16:45:05.593Z",
+    "end_date": "2025-05-29T00:26:50.497Z"
+  },
+  {
+    "SMC": "VBKVPHHV6Y61191",
+    "country": "BT",
+    "currency": "TOP",
+    "amount": 8158,
+    "begin_date": "2023-06-29T08:27:42.148Z",
+    "end_date": "2024-11-15T15:40:56.779Z"
+  },
+  {
+    "SMC": "3ITSDM6CKXD5197",
+    "country": "TF",
+    "currency": "NGN",
+    "amount": 7628,
+    "begin_date": "2023-07-09T19:28:44.749Z",
+    "end_date": "2025-04-12T21:51:27.373Z"
+  },
+  {
+    "SMC": "E7AWGALQS0S2375",
+    "country": "VA",
+    "currency": "XTS",
+    "amount": 9033,
+    "begin_date": "2023-06-19T13:57:59.820Z",
+    "end_date": "2023-06-27T00:18:09.350Z"
+  },
+  {
+    "SMC": "F6SP4S308LN2775",
+    "country": "GT",
+    "currency": "KES",
+    "amount": 6496,
+    "begin_date": "2023-06-04T11:57:36.897Z",
+    "end_date": "2025-03-21T03:58:01.893Z"
+  },
+  {
+    "SMC": "F6SP4S308LN2775",
+    "country": "MN",
+    "currency": "SBD",
+    "amount": 7061,
+    "begin_date": "2023-07-07T17:41:25.302Z",
+    "end_date": "2025-01-14T07:05:22.831Z"
+  },
+  {
+    "SMC": "F6SP4S308LN2775",
+    "country": "WS",
+    "currency": "MWK",
+    "amount": 9168,
+    "begin_date": "2023-05-25T03:09:01.027Z",
+    "end_date": "2024-10-09T21:28:00.194Z"
+  },
+  {
+    "SMC": "F6SP4S308LN2775",
+    "country": "LS",
+    "currency": "UZS",
+    "amount": 1455,
+    "begin_date": "2023-05-03T15:51:45.724Z",
+    "end_date": "2025-02-18T13:35:20.022Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "ML",
+    "currency": "AUD",
+    "amount": 5804,
+    "begin_date": "2023-05-25T22:58:16.180Z",
+    "end_date": "2025-03-22T13:56:42.677Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "DZ",
+    "currency": "NGN",
+    "amount": 2549,
+    "begin_date": "2023-05-29T03:31:12.253Z",
+    "end_date": "2023-09-25T12:54:48.549Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "GQ",
+    "currency": "AOA",
+    "amount": 5534,
+    "begin_date": "2023-06-17T18:41:58.788Z",
+    "end_date": "2024-07-22T09:22:58.291Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "PK",
+    "currency": "CDF",
+    "amount": 4328,
+    "begin_date": "2023-05-29T02:31:21.447Z",
+    "end_date": "2025-01-25T20:42:19.439Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "YT",
+    "currency": "MXN",
+    "amount": 6522,
+    "begin_date": "2023-06-23T09:44:04.453Z",
+    "end_date": "2024-11-10T11:50:17.219Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "EE",
+    "currency": "UAH",
+    "amount": 4684,
+    "begin_date": "2023-07-07T04:42:03.330Z",
+    "end_date": "2024-02-04T05:12:10.421Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "BH",
+    "currency": "XFU",
+    "amount": 2774,
+    "begin_date": "2023-05-14T09:28:13.926Z",
+    "end_date": "2023-10-11T16:24:43.910Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "VC",
+    "currency": "AOA",
+    "amount": 7294,
+    "begin_date": "2023-06-13T05:26:07.863Z",
+    "end_date": "2025-03-31T06:46:28.977Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "BH",
+    "currency": "NZD",
+    "amount": 1370,
+    "begin_date": "2023-06-18T05:09:25.066Z",
+    "end_date": "2025-01-23T06:45:19.910Z"
+  },
+  {
+    "SMC": "8DVDE9M3R6H9937",
+    "country": "JM",
+    "currency": "QAR",
+    "amount": 1932,
+    "begin_date": "2023-06-17T22:07:05.747Z",
+    "end_date": "2024-03-31T21:06:43.324Z"
+  },
+  {
+    "SMC": "YKSMJVBSB4Q6789",
+    "country": "BA",
+    "currency": "LBP",
+    "amount": 3782,
+    "begin_date": "2023-06-06T03:49:16.841Z",
+    "end_date": "2025-01-28T17:02:00.801Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "LB",
+    "currency": "IRR",
+    "amount": 4033,
+    "begin_date": "2023-05-29T19:20:14.287Z",
+    "end_date": "2025-01-29T12:19:14.892Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "MV",
+    "currency": "DOP",
+    "amount": 7415,
+    "begin_date": "2023-06-27T18:48:47.605Z",
+    "end_date": "2025-04-16T17:16:37.603Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "TL",
+    "currency": "TMT",
+    "amount": 3625,
+    "begin_date": "2023-05-25T13:59:51.629Z",
+    "end_date": "2025-04-23T04:57:41.225Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "SB",
+    "currency": "DOP",
+    "amount": 7868,
+    "begin_date": "2023-06-16T18:06:18.708Z",
+    "end_date": "2024-05-23T15:16:08.885Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "RU",
+    "currency": "ETB",
+    "amount": 7585,
+    "begin_date": "2023-05-20T10:46:22.601Z",
+    "end_date": "2023-08-06T17:52:50.365Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "LB",
+    "currency": "SAR",
+    "amount": 7883,
+    "begin_date": "2023-05-05T07:36:15.517Z",
+    "end_date": "2023-12-14T08:52:36.430Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "TM",
+    "currency": "DJF",
+    "amount": 2820,
+    "begin_date": "2023-06-29T14:38:00.115Z",
+    "end_date": "2023-06-19T19:14:17.241Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "CA",
+    "currency": "BWP",
+    "amount": 5918,
+    "begin_date": "2023-05-24T08:03:36.817Z",
+    "end_date": "2024-10-21T13:12:43.831Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "TR",
+    "currency": "EGP",
+    "amount": 8920,
+    "begin_date": "2023-05-23T03:48:42.089Z",
+    "end_date": "2024-04-24T07:31:35.286Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "HM",
+    "currency": "XPF",
+    "amount": 3702,
+    "begin_date": "2023-05-04T15:38:33.961Z",
+    "end_date": "2024-10-31T19:06:13.198Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "CA",
+    "currency": "XBB",
+    "amount": 2128,
+    "begin_date": "2023-05-20T04:46:16.513Z",
+    "end_date": "2024-03-31T20:52:21.559Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "CH",
+    "currency": "BBD",
+    "amount": 6800,
+    "begin_date": "2023-05-25T17:13:19.765Z",
+    "end_date": "2024-12-05T13:22:14.799Z"
+  },
+  {
+    "SMC": "RSZ1P8Y0ZKO9712",
+    "country": "MG",
+    "currency": "PAB",
+    "amount": 5409,
+    "begin_date": "2023-06-11T10:21:26.528Z",
+    "end_date": "2025-04-05T08:52:57.974Z"
+  },
+  {
+    "SMC": "WV3PVLLKI2B3683",
+    "country": "NZ",
+    "currency": "RUB",
+    "amount": 4265,
+    "begin_date": "2023-05-04T13:20:49.577Z",
+    "end_date": "2024-10-31T04:32:50.439Z"
+  },
+  {
+    "SMC": "WV3PVLLKI2B3683",
+    "country": "KH",
+    "currency": "YER",
+    "amount": 5548,
+    "begin_date": "2023-05-17T06:31:45.195Z",
+    "end_date": "2025-04-08T22:36:43.657Z"
+  },
+  {
+    "SMC": "WV3PVLLKI2B3683",
+    "country": "NU",
+    "currency": "BRL",
+    "amount": 8778,
+    "begin_date": "2023-06-03T07:51:50.737Z",
+    "end_date": "2025-01-13T15:58:21.253Z"
+  },
+  {
+    "SMC": "WV3PVLLKI2B3683",
+    "country": "MR",
+    "currency": "LRD",
+    "amount": 1336,
+    "begin_date": "2023-06-01T21:43:11.141Z",
+    "end_date": "2025-04-12T07:16:13.800Z"
+  },
+  {
+    "SMC": "WV3PVLLKI2B3683",
+    "country": "KW",
+    "currency": "IDR",
+    "amount": 7429,
+    "begin_date": "2023-06-22T14:40:29.752Z",
+    "end_date": "2025-04-08T05:13:08.354Z"
+  },
+  {
+    "SMC": "4QY85C7O9Y57752",
+    "country": "ID",
+    "currency": "NIO",
+    "amount": 1754,
+    "begin_date": "2023-07-05T05:48:08.084Z",
+    "end_date": "2025-02-23T09:43:21.377Z"
+  },
+  {
+    "SMC": "LNUFHK6FSA67383",
+    "country": "US",
+    "currency": "XOF",
+    "amount": 6107,
+    "begin_date": "2023-06-25T18:49:46.968Z",
+    "end_date": "2023-12-15T20:29:33.500Z"
+  },
+  {
+    "SMC": "LNUFHK6FSA67383",
+    "country": "SK",
+    "currency": "KMF",
+    "amount": 8877,
+    "begin_date": "2023-06-04T17:42:07.063Z",
+    "end_date": "2023-07-14T15:24:22.763Z"
+  },
+  {
+    "SMC": "LNUFHK6FSA67383",
+    "country": "KW",
+    "currency": "EGP",
+    "amount": 9541,
+    "begin_date": "2023-06-04T17:22:45.683Z",
+    "end_date": "2025-01-03T01:56:34.771Z"
+  },
+  {
+    "SMC": "LNUFHK6FSA67383",
+    "country": "MN",
+    "currency": "TTD",
+    "amount": 2532,
+    "begin_date": "2023-05-30T15:51:00.042Z",
+    "end_date": "2024-12-19T05:57:38.811Z"
+  },
+  {
+    "SMC": "LNUFHK6FSA67383",
+    "country": "GQ",
+    "currency": "MWK",
+    "amount": 2964,
+    "begin_date": "2023-05-14T22:13:21.811Z",
+    "end_date": "2024-06-29T05:01:42.725Z"
+  },
+  {
+    "SMC": "A4DY88KUP5S7097",
+    "country": "AS",
+    "currency": "TOP",
+    "amount": 9280,
+    "begin_date": "2023-06-15T23:24:28.568Z",
+    "end_date": "2024-06-06T16:28:31.692Z"
+  },
+  {
+    "SMC": "2O4ZSYT9T9E6452",
+    "country": "SG",
+    "currency": "TTD",
+    "amount": 8751,
+    "begin_date": "2023-04-26T13:28:06.355Z",
+    "end_date": "2023-08-06T02:12:13.097Z"
+  },
+  {
+    "SMC": "51JITBU3YR72520",
+    "country": "UA",
+    "currency": "XDR",
+    "amount": 7813,
+    "begin_date": "2023-06-19T19:53:45.614Z",
+    "end_date": "2024-05-16T20:50:24.180Z"
+  },
+  {
+    "SMC": "51JITBU3YR72520",
+    "country": "MK",
+    "currency": "KRW",
+    "amount": 2648,
+    "begin_date": "2023-05-19T12:59:06.065Z",
+    "end_date": "2025-01-03T01:13:29.769Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "US",
+    "currency": "NAD",
+    "amount": 5353,
+    "begin_date": "2023-07-12T13:55:06.053Z",
+    "end_date": "2025-02-19T12:03:05.315Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "ST",
+    "currency": "BYN",
+    "amount": 4444,
+    "begin_date": "2023-07-03T22:05:28.695Z",
+    "end_date": "2024-04-26T01:07:06.739Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "SS",
+    "currency": "SGD",
+    "amount": 7887,
+    "begin_date": "2023-06-01T10:46:22.776Z",
+    "end_date": "2024-02-12T20:27:31.771Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "EC",
+    "currency": "LBP",
+    "amount": 6100,
+    "begin_date": "2023-05-18T22:24:23.302Z",
+    "end_date": "2024-06-13T01:22:36.614Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "OM",
+    "currency": "ETB",
+    "amount": 1886,
+    "begin_date": "2023-06-07T14:57:41.602Z",
+    "end_date": "2023-11-14T12:33:41.786Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "MO",
+    "currency": "TJS",
+    "amount": 6071,
+    "begin_date": "2023-05-26T16:30:49.232Z",
+    "end_date": "2024-08-06T23:27:51.588Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "UM",
+    "currency": "PGK",
+    "amount": 2257,
+    "begin_date": "2023-07-17T10:29:24.998Z",
+    "end_date": "2024-07-28T15:50:35.756Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "GT",
+    "currency": "HRK",
+    "amount": 5479,
+    "begin_date": "2023-06-17T03:39:25.572Z",
+    "end_date": "2023-11-20T04:48:11.653Z"
+  },
+  {
+    "SMC": "X3TIQY20CIM2292",
+    "country": "EH",
+    "currency": "MXN",
+    "amount": 4711,
+    "begin_date": "2023-06-18T12:35:08.650Z",
+    "end_date": "2024-12-31T08:47:04.182Z"
+  },
+  {
+    "SMC": "6QJCPL9HKD48833",
+    "country": "TD",
+    "currency": "CAD",
+    "amount": 5906,
+    "begin_date": "2023-04-19T04:15:20.504Z",
+    "end_date": "2023-07-26T18:24:06.979Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "AO",
+    "currency": "ERN",
+    "amount": 3326,
+    "begin_date": "2023-07-15T00:21:53.398Z",
+    "end_date": "2024-10-08T15:13:24.643Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "IE",
+    "currency": "TOP",
+    "amount": 3371,
+    "begin_date": "2023-06-30T23:59:25.162Z",
+    "end_date": "2024-12-17T12:47:33.390Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "BB",
+    "currency": "BBD",
+    "amount": 7858,
+    "begin_date": "2023-05-28T06:45:36.439Z",
+    "end_date": "2024-11-07T10:06:12.323Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "NU",
+    "currency": "LRD",
+    "amount": 5044,
+    "begin_date": "2023-06-18T03:04:40.790Z",
+    "end_date": "2023-10-03T16:54:27.702Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "GU",
+    "currency": "CNY",
+    "amount": 6796,
+    "begin_date": "2023-06-05T20:13:16.531Z",
+    "end_date": "2024-01-18T19:08:26.186Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "ET",
+    "currency": "AMD",
+    "amount": 7136,
+    "begin_date": "2023-06-08T18:05:25.432Z",
+    "end_date": "2024-01-13T17:03:17.649Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "MN",
+    "currency": "NZD",
+    "amount": 6889,
+    "begin_date": "2023-05-21T17:19:25.690Z",
+    "end_date": "2025-03-04T14:44:02.700Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "BN",
+    "currency": "XBB",
+    "amount": 3180,
+    "begin_date": "2023-05-17T00:37:06.864Z",
+    "end_date": "2024-03-28T07:08:05.053Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "VA",
+    "currency": "UYU",
+    "amount": 4575,
+    "begin_date": "2023-05-22T09:36:03.371Z",
+    "end_date": "2023-11-30T05:38:38.965Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "AR",
+    "currency": "XBB",
+    "amount": 7578,
+    "begin_date": "2023-06-21T01:32:59.249Z",
+    "end_date": "2024-02-11T04:17:59.971Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "KZ",
+    "currency": "MRO",
+    "amount": 8697,
+    "begin_date": "2023-06-03T10:08:59.375Z",
+    "end_date": "2024-02-27T21:39:39.394Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "AX",
+    "currency": "MGA",
+    "amount": 9420,
+    "begin_date": "2023-05-28T08:32:51.467Z",
+    "end_date": "2023-06-11T18:55:57.483Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "NC",
+    "currency": "MNT",
+    "amount": 9174,
+    "begin_date": "2023-04-30T03:37:57.439Z",
+    "end_date": "2023-08-21T07:55:04.138Z"
+  },
+  {
+    "SMC": "5BFG5ZF680V1741",
+    "country": "SM",
+    "currency": "LSL",
+    "amount": 9410,
+    "begin_date": "2023-04-30T05:52:26.423Z",
+    "end_date": "2024-04-01T15:16:54.391Z"
+  },
+  {
+    "SMC": "JKBZJE1HAM14304",
+    "country": "MW",
+    "currency": "SBD",
+    "amount": 4060,
+    "begin_date": "2023-05-25T23:07:09.252Z",
+    "end_date": "2024-09-19T22:13:33.029Z"
+  },
+  {
+    "SMC": "JKBZJE1HAM14304",
+    "country": "HU",
+    "currency": "GYD",
+    "amount": 9821,
+    "begin_date": "2023-07-05T19:06:12.298Z",
+    "end_date": "2023-06-29T04:49:19.130Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "GP",
+    "currency": "TJS",
+    "amount": 2671,
+    "begin_date": "2023-05-18T22:04:09.443Z",
+    "end_date": "2024-06-07T06:38:10.586Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "FM",
+    "currency": "NIO",
+    "amount": 8429,
+    "begin_date": "2023-06-19T05:13:44.343Z",
+    "end_date": "2025-02-17T18:00:40.912Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "SS",
+    "currency": "TJS",
+    "amount": 7988,
+    "begin_date": "2023-05-23T02:37:50.175Z",
+    "end_date": "2024-01-19T19:15:06.504Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "BD",
+    "currency": "MWK",
+    "amount": 6714,
+    "begin_date": "2023-06-07T18:36:09.844Z",
+    "end_date": "2024-04-27T12:35:48.951Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "DJ",
+    "currency": "XBA",
+    "amount": 7177,
+    "begin_date": "2023-06-15T08:05:25.625Z",
+    "end_date": "2023-09-21T09:27:03.237Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "GM",
+    "currency": "SDG",
+    "amount": 1217,
+    "begin_date": "2023-06-13T09:15:54.828Z",
+    "end_date": "2024-07-19T23:27:32.614Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "NI",
+    "currency": "STN",
+    "amount": 6657,
+    "begin_date": "2023-06-24T05:40:23.889Z",
+    "end_date": "2024-11-04T03:20:46.521Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "KI",
+    "currency": "BTN",
+    "amount": 6053,
+    "begin_date": "2023-06-02T13:12:52.686Z",
+    "end_date": "2024-04-12T00:37:11.181Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "BJ",
+    "currency": "EUR",
+    "amount": 3128,
+    "begin_date": "2023-06-20T09:50:32.784Z",
+    "end_date": "2023-06-22T00:12:50.534Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "AZ",
+    "currency": "ALL",
+    "amount": 3184,
+    "begin_date": "2023-07-05T07:06:10.341Z",
+    "end_date": "2023-07-29T06:15:53.291Z"
+  },
+  {
+    "SMC": "QKB07VP00YW4771",
+    "country": "PL",
+    "currency": "TOP",
+    "amount": 4171,
+    "begin_date": "2023-05-19T23:03:20.475Z",
+    "end_date": "2024-07-29T12:07:11.880Z"
+  },
+  {
+    "SMC": "OPBNADF9XWN1070",
+    "country": "EC",
+    "currency": "HUF",
+    "amount": 3646,
+    "begin_date": "2023-06-10T10:34:27.633Z",
+    "end_date": "2023-10-11T14:21:47.207Z"
+  },
+  {
+    "SMC": "OPBNADF9XWN1070",
+    "country": "KR",
+    "currency": "THB",
+    "amount": 4350,
+    "begin_date": "2023-06-07T14:26:28.143Z",
+    "end_date": "2024-04-30T14:28:16.755Z"
+  },
+  {
+    "SMC": "OPBNADF9XWN1070",
+    "country": "RU",
+    "currency": "SAR",
+    "amount": 9485,
+    "begin_date": "2023-05-15T21:18:59.166Z",
+    "end_date": "2023-07-30T20:34:11.744Z"
+  },
+  {
+    "SMC": "OPBNADF9XWN1070",
+    "country": "MX",
+    "currency": "XAG",
+    "amount": 8235,
+    "begin_date": "2023-06-11T20:23:29.577Z",
+    "end_date": "2024-03-15T22:43:24.437Z"
+  },
+  {
+    "SMC": "OPBNADF9XWN1070",
+    "country": "RO",
+    "currency": "ZWL",
+    "amount": 1455,
+    "begin_date": "2023-04-16T09:15:48.037Z",
+    "end_date": "2025-06-05T21:28:05.043Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "IM",
+    "currency": "HTG",
+    "amount": 5251,
+    "begin_date": "2023-06-20T18:09:03.844Z",
+    "end_date": "2024-06-17T05:15:14.625Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "EC",
+    "currency": "KMF",
+    "amount": 4596,
+    "begin_date": "2023-07-17T09:49:36.608Z",
+    "end_date": "2024-07-22T14:17:37.296Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "NF",
+    "currency": "GTQ",
+    "amount": 5585,
+    "begin_date": "2023-05-03T11:19:12.323Z",
+    "end_date": "2023-08-12T03:29:45.415Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "MP",
+    "currency": "PLN",
+    "amount": 8844,
+    "begin_date": "2023-06-16T11:36:59.835Z",
+    "end_date": "2024-01-22T14:45:20.743Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "SM",
+    "currency": "SVC",
+    "amount": 1141,
+    "begin_date": "2023-06-07T14:08:33.152Z",
+    "end_date": "2023-06-27T06:31:07.541Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "IE",
+    "currency": "DOP",
+    "amount": 2970,
+    "begin_date": "2023-05-12T09:35:10.557Z",
+    "end_date": "2024-03-11T07:16:26.784Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "IL",
+    "currency": "LVL",
+    "amount": 3765,
+    "begin_date": "2023-06-01T23:06:56.761Z",
+    "end_date": "2024-09-12T11:47:44.589Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "LC",
+    "currency": "GNF",
+    "amount": 1402,
+    "begin_date": "2023-05-14T22:59:37.637Z",
+    "end_date": "2023-10-14T03:53:20.265Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "LK",
+    "currency": "BWP",
+    "amount": 6774,
+    "begin_date": "2023-06-25T22:46:17.271Z",
+    "end_date": "2024-09-28T00:22:25.400Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "NU",
+    "currency": "TMT",
+    "amount": 5023,
+    "begin_date": "2023-06-10T13:58:42.660Z",
+    "end_date": "2024-12-18T19:17:55.266Z"
+  },
+  {
+    "SMC": "MZONE7P07QV6980",
+    "country": "TN",
+    "currency": "PLN",
+    "amount": 3948,
+    "begin_date": "2023-05-04T20:51:18.169Z",
+    "end_date": "2024-12-11T18:44:28.291Z"
+  },
+  {
+    "SMC": "ZPFEX9QR4ZO5174",
+    "country": "LY",
+    "currency": "XPT",
+    "amount": 9520,
+    "begin_date": "2023-06-05T16:46:23.026Z",
+    "end_date": "2024-04-19T01:09:59.298Z"
+  },
+  {
+    "SMC": "ZPFEX9QR4ZO5174",
+    "country": "AR",
+    "currency": "VES",
+    "amount": 5346,
+    "begin_date": "2023-05-07T22:42:24.558Z",
+    "end_date": "2023-12-31T09:29:49.713Z"
+  },
+  {
+    "SMC": "ZPFEX9QR4ZO5174",
+    "country": "EH",
+    "currency": "MNT",
+    "amount": 1419,
+    "begin_date": "2023-06-07T02:37:41.044Z",
+    "end_date": "2025-06-01T11:24:28.704Z"
+  },
+  {
+    "SMC": "ZPFEX9QR4ZO5174",
+    "country": "OM",
+    "currency": "RWF",
+    "amount": 4719,
+    "begin_date": "2023-05-18T04:31:14.374Z",
+    "end_date": "2024-11-17T20:35:39.458Z"
+  },
+  {
+    "SMC": "ZPFEX9QR4ZO5174",
+    "country": "LB",
+    "currency": "BSD",
+    "amount": 6320,
+    "begin_date": "2023-05-18T23:57:12.129Z",
+    "end_date": "2025-05-11T05:55:34.327Z"
+  },
+  {
+    "SMC": "ZPFEX9QR4ZO5174",
+    "country": "GT",
+    "currency": "TOP",
+    "amount": 5895,
+    "begin_date": "2023-05-19T11:27:26.256Z",
+    "end_date": "2024-08-24T12:01:22.399Z"
+  },
+  {
+    "SMC": "1THP1RJX63A2591",
+    "country": "SL",
+    "currency": "SCR",
+    "amount": 2824,
+    "begin_date": "2023-04-27T11:59:35.039Z",
+    "end_date": "2023-09-06T07:25:56.422Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "CY",
+    "currency": "BAM",
+    "amount": 1768,
+    "begin_date": "2023-05-20T15:47:12.882Z",
+    "end_date": "2024-11-12T15:40:18.407Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "CI",
+    "currency": "FJD",
+    "amount": 9325,
+    "begin_date": "2023-06-15T08:23:03.616Z",
+    "end_date": "2025-05-19T02:50:47.720Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "AW",
+    "currency": "STN",
+    "amount": 4273,
+    "begin_date": "2023-06-17T12:31:52.070Z",
+    "end_date": "2023-07-01T01:36:24.004Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "MT",
+    "currency": "MRO",
+    "amount": 3022,
+    "begin_date": "2023-05-30T22:23:18.152Z",
+    "end_date": "2024-09-01T23:54:09.468Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "BJ",
+    "currency": "LTL",
+    "amount": 3656,
+    "begin_date": "2023-06-15T04:11:01.467Z",
+    "end_date": "2024-05-07T17:45:28.365Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "BB",
+    "currency": "SVC",
+    "amount": 8637,
+    "begin_date": "2023-05-29T07:49:19.642Z",
+    "end_date": "2023-09-22T06:35:50.398Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "PM",
+    "currency": "MYR",
+    "amount": 6584,
+    "begin_date": "2023-06-26T07:31:34.660Z",
+    "end_date": "2025-05-15T02:08:28.090Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "CF",
+    "currency": "CLP",
+    "amount": 5513,
+    "begin_date": "2023-05-27T08:42:55.756Z",
+    "end_date": "2025-04-11T04:41:10.941Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "SX",
+    "currency": "YER",
+    "amount": 3672,
+    "begin_date": "2023-06-17T10:57:35.378Z",
+    "end_date": "2023-12-11T17:09:50.651Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "UY",
+    "currency": "TND",
+    "amount": 5565,
+    "begin_date": "2023-05-20T08:15:11.871Z",
+    "end_date": "2023-07-08T14:57:02.243Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "GB",
+    "currency": "NZD",
+    "amount": 7873,
+    "begin_date": "2023-05-22T10:15:14.175Z",
+    "end_date": "2024-05-21T17:41:30.392Z"
+  },
+  {
+    "SMC": "QH35V8OWLXD4372",
+    "country": "UY",
+    "currency": "MYR",
+    "amount": 8189,
+    "begin_date": "2023-05-22T12:14:37.967Z",
+    "end_date": "2025-01-27T08:41:40.505Z"
+  },
+  {
+    "SMC": "COVYYBLNORE9756",
+    "country": "BH",
+    "currency": "NAD",
+    "amount": 3434,
+    "begin_date": "2023-07-08T23:04:52.124Z",
+    "end_date": "2024-06-08T10:00:10.094Z"
+  },
+  {
+    "SMC": "COVYYBLNORE9756",
+    "country": "FI",
+    "currency": "PHP",
+    "amount": 7900,
+    "begin_date": "2023-06-05T00:26:21.757Z",
+    "end_date": "2025-05-20T20:44:13.475Z"
+  },
+  {
+    "SMC": "02NO715W5JK9569",
+    "country": "GS",
+    "currency": "COP",
+    "amount": 4462,
+    "begin_date": "2023-07-18T12:49:02.281Z",
+    "end_date": "2025-03-24T16:10:50.642Z"
+  },
+  {
+    "SMC": "02NO715W5JK9569",
+    "country": "KW",
+    "currency": "EUR",
+    "amount": 8212,
+    "begin_date": "2023-05-25T14:07:52.980Z",
+    "end_date": "2025-05-25T02:22:48.926Z"
+  },
+  {
+    "SMC": "MJCQ6KUNE735292",
+    "country": "GH",
+    "currency": "BMD",
+    "amount": 3932,
+    "begin_date": "2023-04-15T06:59:19.253Z",
+    "end_date": "2024-07-01T14:17:42.931Z"
+  },
+  {
+    "SMC": "MJCQ6KUNE735292",
+    "country": "CY",
+    "currency": "NGN",
+    "amount": 9804,
+    "begin_date": "2023-06-27T05:54:41.183Z",
+    "end_date": "2023-09-14T10:02:53.526Z"
+  },
+  {
+    "SMC": "MJCQ6KUNE735292",
+    "country": "AW",
+    "currency": "XFU",
+    "amount": 1565,
+    "begin_date": "2023-05-23T16:57:48.900Z",
+    "end_date": "2024-06-30T10:49:15.268Z"
+  },
+  {
+    "SMC": "MJCQ6KUNE735292",
+    "country": "MZ",
+    "currency": "MDL",
+    "amount": 6405,
+    "begin_date": "2023-05-08T00:43:47.053Z",
+    "end_date": "2024-09-19T17:34:17.206Z"
+  },
+  {
+    "SMC": "MJCQ6KUNE735292",
+    "country": "NL",
+    "currency": "PLN",
+    "amount": 6704,
+    "begin_date": "2023-06-22T21:37:22.094Z",
+    "end_date": "2024-02-12T13:35:21.546Z"
+  },
+  {
+    "SMC": "QGM5WQDDB618794",
+    "country": "MU",
+    "currency": "AFN",
+    "amount": 8040,
+    "begin_date": "2023-05-31T23:20:50.709Z",
+    "end_date": "2023-10-26T03:26:01.949Z"
+  },
+  {
+    "SMC": "6XFU8779OTK5432",
+    "country": "GF",
+    "currency": "DZD",
+    "amount": 9825,
+    "begin_date": "2023-06-02T07:26:56.650Z",
+    "end_date": "2025-01-25T03:58:01.052Z"
+  },
+  {
+    "SMC": "6XFU8779OTK5432",
+    "country": "FI",
+    "currency": "CZK",
+    "amount": 7671,
+    "begin_date": "2023-07-05T19:39:17.656Z",
+    "end_date": "2023-10-31T19:06:26.182Z"
+  },
+  {
+    "SMC": "ZBWGG3DSWUZ6440",
+    "country": "FK",
+    "currency": "GYD",
+    "amount": 5911,
+    "begin_date": "2023-06-20T17:42:39.700Z",
+    "end_date": "2024-07-14T04:13:39.822Z"
+  },
+  {
+    "SMC": "ZBWGG3DSWUZ6440",
+    "country": "KY",
+    "currency": "AUD",
+    "amount": 7781,
+    "begin_date": "2023-04-30T15:47:16.256Z",
+    "end_date": "2024-02-11T21:23:58.449Z"
+  },
+  {
+    "SMC": "ZBWGG3DSWUZ6440",
+    "country": "IN",
+    "currency": "INR",
+    "amount": 4887,
+    "begin_date": "2023-06-24T19:40:18.014Z",
+    "end_date": "2024-10-13T09:25:28.379Z"
+  },
+  {
+    "SMC": "KJBAFLA1TME7124",
+    "country": "NZ",
+    "currency": "BHD",
+    "amount": 3566,
+    "begin_date": "2023-06-16T03:26:23.831Z",
+    "end_date": "2023-07-11T20:19:10.797Z"
+  },
+  {
+    "SMC": "KJBAFLA1TME7124",
+    "country": "PA",
+    "currency": "CUC",
+    "amount": 5774,
+    "begin_date": "2023-06-23T09:46:20.691Z",
+    "end_date": "2025-04-26T10:56:34.116Z"
+  },
+  {
+    "SMC": "KJBAFLA1TME7124",
+    "country": "CX",
+    "currency": "SLL",
+    "amount": 8630,
+    "begin_date": "2023-05-21T08:38:17.414Z",
+    "end_date": "2023-10-17T08:37:17.797Z"
+  },
+  {
+    "SMC": "KJBAFLA1TME7124",
+    "country": "GS",
+    "currency": "KES",
+    "amount": 9085,
+    "begin_date": "2023-06-07T07:06:34.584Z",
+    "end_date": "2023-08-26T07:58:34.802Z"
+  },
+  {
+    "SMC": "KJBAFLA1TME7124",
+    "country": "SI",
+    "currency": "BND",
+    "amount": 3029,
+    "begin_date": "2023-06-13T13:10:25.022Z",
+    "end_date": "2024-01-13T02:34:07.255Z"
+  },
+  {
+    "SMC": "YEWLON8ACR85869",
+    "country": "GL",
+    "currency": "GNF",
+    "amount": 9721,
+    "begin_date": "2023-06-15T06:30:18.190Z",
+    "end_date": "2023-09-18T05:29:11.717Z"
+  },
+  {
+    "SMC": "YEWLON8ACR85869",
+    "country": "MP",
+    "currency": "GYD",
+    "amount": 5670,
+    "begin_date": "2023-06-11T21:28:38.732Z",
+    "end_date": "2024-01-11T07:48:02.942Z"
+  },
+  {
+    "SMC": "YEWLON8ACR85869",
+    "country": "CG",
+    "currency": "SHP",
+    "amount": 7412,
+    "begin_date": "2023-06-03T18:35:38.374Z",
+    "end_date": "2024-04-21T20:52:39.761Z"
+  },
+  {
+    "SMC": "LJYICJ3FNBZ2136",
+    "country": "MG",
+    "currency": "AED",
+    "amount": 3344,
+    "begin_date": "2023-06-24T05:15:44.242Z",
+    "end_date": "2023-07-28T00:42:32.458Z"
+  },
+  {
+    "SMC": "LJYICJ3FNBZ2136",
+    "country": "KP",
+    "currency": "UYU",
+    "amount": 2731,
+    "begin_date": "2023-06-30T09:30:59.134Z",
+    "end_date": "2023-06-21T00:49:21.184Z"
+  },
+  {
+    "SMC": "LJYICJ3FNBZ2136",
+    "country": "AW",
+    "currency": "SBD",
+    "amount": 8300,
+    "begin_date": "2023-06-05T15:00:17.768Z",
+    "end_date": "2023-11-19T11:41:21.093Z"
+  },
+  {
+    "SMC": "LJYICJ3FNBZ2136",
+    "country": "GS",
+    "currency": "AFN",
+    "amount": 2801,
+    "begin_date": "2023-06-22T15:55:01.431Z",
+    "end_date": "2024-06-23T18:35:08.707Z"
+  },
+  {
+    "SMC": "W0PDCR6K0YE7974",
+    "country": "LV",
+    "currency": "NAD",
+    "amount": 7470,
+    "begin_date": "2023-06-10T01:32:52.963Z",
+    "end_date": "2023-08-08T03:39:01.156Z"
+  },
+  {
+    "SMC": "W0PDCR6K0YE7974",
+    "country": "SZ",
+    "currency": "TJS",
+    "amount": 8301,
+    "begin_date": "2023-06-16T22:55:27.480Z",
+    "end_date": "2025-02-25T16:26:22.490Z"
+  },
+  {
+    "SMC": "W0PDCR6K0YE7974",
+    "country": "PY",
+    "currency": "NZD",
+    "amount": 3719,
+    "begin_date": "2023-05-30T08:43:32.166Z",
+    "end_date": "2024-06-24T20:46:54.399Z"
+  },
+  {
+    "SMC": "W0PDCR6K0YE7974",
+    "country": "HK",
+    "currency": "XBA",
+    "amount": 6090,
+    "begin_date": "2023-07-10T00:34:25.411Z",
+    "end_date": "2023-08-27T19:05:01.669Z"
+  },
+  {
+    "SMC": "W0PDCR6K0YE7974",
+    "country": "NG",
+    "currency": "DJF",
+    "amount": 4618,
+    "begin_date": "2023-07-26T17:18:10.506Z",
+    "end_date": "2024-11-07T05:04:50.143Z"
+  },
+  {
+    "SMC": "05RSEPH3F866374",
+    "country": "GW",
+    "currency": "CUC",
+    "amount": 8189,
+    "begin_date": "2023-07-15T13:48:03.475Z",
+    "end_date": "2023-09-25T17:46:17.692Z"
+  },
+  {
+    "SMC": "05RSEPH3F866374",
+    "country": "DZ",
+    "currency": "TMT",
+    "amount": 4149,
+    "begin_date": "2023-07-15T13:22:17.644Z",
+    "end_date": "2024-11-10T09:32:48.870Z"
+  },
+  {
+    "SMC": "N8D2EPSCBD99608",
+    "country": "KN",
+    "currency": "UYU",
+    "amount": 5878,
+    "begin_date": "2023-07-21T12:16:25.808Z",
+    "end_date": "2025-03-27T11:38:17.810Z"
+  },
+  {
+    "SMC": "N8D2EPSCBD99608",
+    "country": "NA",
+    "currency": "XBD",
+    "amount": 7578,
+    "begin_date": "2023-06-23T18:21:56.747Z",
+    "end_date": "2023-09-02T19:41:11.471Z"
+  },
+  {
+    "SMC": "K88HN81O2SW9723",
+    "country": "EG",
+    "currency": "MGA",
+    "amount": 9878,
+    "begin_date": "2023-07-17T11:31:58.434Z",
+    "end_date": "2025-01-08T17:49:37.272Z"
+  },
+  {
+    "SMC": "K88HN81O2SW9723",
+    "country": "KN",
+    "currency": "CUP",
+    "amount": 5534,
+    "begin_date": "2023-06-02T04:23:36.680Z",
+    "end_date": "2024-01-15T13:44:45.267Z"
+  },
+  {
+    "SMC": "K88HN81O2SW9723",
+    "country": "CD",
+    "currency": "CZK",
+    "amount": 8397,
+    "begin_date": "2023-06-03T04:10:12.620Z",
+    "end_date": "2023-06-21T05:38:14.896Z"
+  },
+  {
+    "SMC": "K88HN81O2SW9723",
+    "country": "MK",
+    "currency": "AMD",
+    "amount": 1207,
+    "begin_date": "2023-07-02T01:19:57.735Z",
+    "end_date": "2023-08-27T13:13:28.250Z"
+  },
+  {
+    "SMC": "K88HN81O2SW9723",
+    "country": "AG",
+    "currency": "BND",
+    "amount": 9562,
+    "begin_date": "2023-06-29T02:07:16.175Z",
+    "end_date": "2023-11-09T14:20:55.427Z"
+  },
+  {
+    "SMC": "K88HN81O2SW9723",
+    "country": "SZ",
+    "currency": "MNT",
+    "amount": 6596,
+    "begin_date": "2023-05-21T17:36:04.194Z",
+    "end_date": "2023-06-29T08:52:57.102Z"
+  },
+  {
+    "SMC": "9Y6I5NGV7QY7715",
+    "country": "EH",
+    "currency": "LBP",
+    "amount": 8569,
+    "begin_date": "2023-05-31T07:50:16.942Z",
+    "end_date": "2024-08-18T09:59:07.352Z"
+  },
+  {
+    "SMC": "9Y6I5NGV7QY7715",
+    "country": "CM",
+    "currency": "PLN",
+    "amount": 9201,
+    "begin_date": "2023-06-01T07:58:30.301Z",
+    "end_date": "2024-06-07T12:00:37.598Z"
+  },
+  {
+    "SMC": "LGR77ZQX3RS3094",
+    "country": "LR",
+    "currency": "LRD",
+    "amount": 1054,
+    "begin_date": "2023-07-02T14:35:48.339Z",
+    "end_date": "2023-08-15T08:20:09.945Z"
+  },
+  {
+    "SMC": "72WC0QE3CNR1977",
+    "country": "RE",
+    "currency": "ILS",
+    "amount": 7440,
+    "begin_date": "2023-06-20T04:43:45.371Z",
+    "end_date": "2023-08-18T11:20:17.399Z"
+  },
+  {
+    "SMC": "72WC0QE3CNR1977",
+    "country": "SM",
+    "currency": "XBC",
+    "amount": 6448,
+    "begin_date": "2023-06-18T23:18:27.541Z",
+    "end_date": "2025-02-04T02:18:51.764Z"
+  },
+  {
+    "SMC": "72WC0QE3CNR1977",
+    "country": "AM",
+    "currency": "CDF",
+    "amount": 5357,
+    "begin_date": "2023-05-04T06:54:34.982Z",
+    "end_date": "2024-01-11T15:47:21.394Z"
+  },
+  {
+    "SMC": "72WC0QE3CNR1977",
+    "country": "MQ",
+    "currency": "MWK",
+    "amount": 6188,
+    "begin_date": "2023-06-17T04:12:03.872Z",
+    "end_date": "2023-09-01T10:26:42.624Z"
+  },
+  {
+    "SMC": "OUH4KZIMZNU9877",
+    "country": "MD",
+    "currency": "WST",
+    "amount": 8102,
+    "begin_date": "2023-05-26T04:22:14.237Z",
+    "end_date": "2024-08-31T19:23:10.309Z"
+  },
+  {
+    "SMC": "OUH4KZIMZNU9877",
+    "country": "LR",
+    "currency": "ALL",
+    "amount": 6887,
+    "begin_date": "2023-06-02T18:20:45.990Z",
+    "end_date": "2024-08-02T11:12:36.111Z"
+  },
+  {
+    "SMC": "L1UUO5K2IW35143",
+    "country": "BE",
+    "currency": "AOA",
+    "amount": 7682,
+    "begin_date": "2023-07-01T17:38:33.093Z",
+    "end_date": "2024-10-28T22:58:48.327Z"
+  },
+  {
+    "SMC": "L1UUO5K2IW35143",
+    "country": "FI",
+    "currency": "KMF",
+    "amount": 2442,
+    "begin_date": "2023-05-03T23:06:58.394Z",
+    "end_date": "2024-06-03T03:06:28.507Z"
+  },
+  {
+    "SMC": "L1UUO5K2IW35143",
+    "country": "CR",
+    "currency": "AZN",
+    "amount": 2475,
+    "begin_date": "2023-05-07T05:04:43.363Z",
+    "end_date": "2023-11-08T01:49:42.555Z"
+  },
+  {
+    "SMC": "L1UUO5K2IW35143",
+    "country": "AF",
+    "currency": "MXN",
+    "amount": 4582,
+    "begin_date": "2023-06-27T17:50:58.270Z",
+    "end_date": "2024-04-01T05:37:28.564Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "NI",
+    "currency": "AWG",
+    "amount": 1500,
+    "begin_date": "2023-06-30T10:43:06.637Z",
+    "end_date": "2024-07-20T22:03:38.816Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "NA",
+    "currency": "AOA",
+    "amount": 7988,
+    "begin_date": "2023-06-07T11:06:37.037Z",
+    "end_date": "2023-08-20T01:25:21.285Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "LC",
+    "currency": "BHD",
+    "amount": 8970,
+    "begin_date": "2023-05-19T01:19:27.016Z",
+    "end_date": "2024-06-27T02:34:02.049Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "UG",
+    "currency": "MXN",
+    "amount": 5340,
+    "begin_date": "2023-06-14T00:40:27.901Z",
+    "end_date": "2023-08-09T01:00:45.452Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "AT",
+    "currency": "XOF",
+    "amount": 9323,
+    "begin_date": "2023-07-07T17:12:32.655Z",
+    "end_date": "2024-01-23T12:17:48.483Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "AF",
+    "currency": "AZN",
+    "amount": 4816,
+    "begin_date": "2023-05-30T02:25:38.948Z",
+    "end_date": "2024-03-11T22:52:29.488Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "NA",
+    "currency": "NGN",
+    "amount": 5390,
+    "begin_date": "2023-07-05T09:05:21.099Z",
+    "end_date": "2024-07-20T06:43:46.315Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "BW",
+    "currency": "ISK",
+    "amount": 6475,
+    "begin_date": "2023-06-04T06:10:34.974Z",
+    "end_date": "2024-06-27T00:35:11.614Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "AL",
+    "currency": "SCR",
+    "amount": 4037,
+    "begin_date": "2023-04-23T11:04:57.166Z",
+    "end_date": "2025-06-03T17:21:15.757Z"
+  },
+  {
+    "SMC": "T8KGC24SM795346",
+    "country": "PL",
+    "currency": "SVC",
+    "amount": 3197,
+    "begin_date": "2023-06-11T15:25:24.915Z",
+    "end_date": "2023-12-15T04:16:40.283Z"
+  },
+  {
+    "SMC": "KSUAA5M95DL7259",
+    "country": "VC",
+    "currency": "KZT",
+    "amount": 3735,
+    "begin_date": "2023-06-12T17:39:01.761Z",
+    "end_date": "2024-01-03T14:11:50.455Z"
+  },
+  {
+    "SMC": "KSUAA5M95DL7259",
+    "country": "LR",
+    "currency": "DZD",
+    "amount": 8305,
+    "begin_date": "2023-06-08T14:03:05.280Z",
+    "end_date": "2025-05-23T23:53:25.703Z"
+  },
+  {
+    "SMC": "KSUAA5M95DL7259",
+    "country": "KP",
+    "currency": "BGN",
+    "amount": 5129,
+    "begin_date": "2023-05-31T01:00:23.096Z",
+    "end_date": "2024-02-13T02:58:28.995Z"
+  },
+  {
+    "SMC": "VQW5ZJ79TMW3889",
+    "country": "MG",
+    "currency": "DOP",
+    "amount": 3570,
+    "begin_date": "2023-07-11T15:12:54.422Z",
+    "end_date": "2023-06-20T01:11:53.887Z"
+  },
+  {
+    "SMC": "VQW5ZJ79TMW3889",
+    "country": "TF",
+    "currency": "MKD",
+    "amount": 8898,
+    "begin_date": "2023-05-31T04:01:41.912Z",
+    "end_date": "2025-02-08T01:12:32.328Z"
+  },
+  {
+    "SMC": "VQW5ZJ79TMW3889",
+    "country": "DO",
+    "currency": "XTS",
+    "amount": 8775,
+    "begin_date": "2023-05-19T06:10:03.583Z",
+    "end_date": "2023-11-21T01:04:56.312Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "CN",
+    "currency": "TOP",
+    "amount": 8965,
+    "begin_date": "2023-06-20T18:34:21.557Z",
+    "end_date": "2024-08-04T01:47:43.563Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "DJ",
+    "currency": "XAF",
+    "amount": 3783,
+    "begin_date": "2023-05-26T20:13:42.858Z",
+    "end_date": "2024-06-19T14:04:13.494Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "ZA",
+    "currency": "BSD",
+    "amount": 6379,
+    "begin_date": "2023-05-16T11:07:34.125Z",
+    "end_date": "2025-03-04T18:17:38.503Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "TD",
+    "currency": "RUB",
+    "amount": 2814,
+    "begin_date": "2023-06-06T02:31:31.834Z",
+    "end_date": "2024-11-30T21:47:12.572Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "YT",
+    "currency": "MNT",
+    "amount": 3840,
+    "begin_date": "2023-05-26T01:06:35.735Z",
+    "end_date": "2024-09-09T01:57:09.119Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "NF",
+    "currency": "CLP",
+    "amount": 7264,
+    "begin_date": "2023-05-17T00:18:06.082Z",
+    "end_date": "2024-06-04T05:11:56.191Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "TV",
+    "currency": "ETB",
+    "amount": 2108,
+    "begin_date": "2023-06-22T12:01:06.030Z",
+    "end_date": "2025-03-19T12:12:08.943Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "GY",
+    "currency": "UAH",
+    "amount": 4177,
+    "begin_date": "2023-05-25T22:03:35.356Z",
+    "end_date": "2025-04-05T19:54:17.412Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "IT",
+    "currency": "XBD",
+    "amount": 9328,
+    "begin_date": "2023-08-06T08:30:52.125Z",
+    "end_date": "2023-12-27T03:10:28.212Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "PW",
+    "currency": "ARS",
+    "amount": 8384,
+    "begin_date": "2023-06-14T23:27:32.885Z",
+    "end_date": "2023-11-22T02:26:29.915Z"
+  },
+  {
+    "SMC": "Y8UGRYAFB257125",
+    "country": "AE",
+    "currency": "XPF",
+    "amount": 9436,
+    "begin_date": "2023-06-29T03:37:37.033Z",
+    "end_date": "2024-04-09T01:53:16.865Z"
+  },
+  {
+    "SMC": "HIRUKHXDKFG2706",
+    "country": "CL",
+    "currency": "XBD",
+    "amount": 6962,
+    "begin_date": "2023-05-13T01:18:13.508Z",
+    "end_date": "2025-06-04T05:39:30.510Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "MG",
+    "currency": "DKK",
+    "amount": 7431,
+    "begin_date": "2023-06-18T22:47:15.974Z",
+    "end_date": "2024-10-31T18:22:14.498Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "MG",
+    "currency": "SHP",
+    "amount": 5429,
+    "begin_date": "2023-06-07T10:35:03.198Z",
+    "end_date": "2025-05-22T19:00:48.278Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "RW",
+    "currency": "JOD",
+    "amount": 4966,
+    "begin_date": "2023-06-24T02:28:26.982Z",
+    "end_date": "2024-04-26T15:24:32.475Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "AD",
+    "currency": "KHR",
+    "amount": 4590,
+    "begin_date": "2023-05-21T23:22:06.607Z",
+    "end_date": "2025-05-13T07:11:53.335Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "CI",
+    "currency": "SEK",
+    "amount": 1295,
+    "begin_date": "2023-06-04T12:04:37.120Z",
+    "end_date": "2025-04-30T12:20:01.063Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "AX",
+    "currency": "UYU",
+    "amount": 3218,
+    "begin_date": "2023-06-17T01:35:54.793Z",
+    "end_date": "2024-05-05T15:00:14.371Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "GL",
+    "currency": "JPY",
+    "amount": 7283,
+    "begin_date": "2023-06-02T22:10:18.459Z",
+    "end_date": "2024-10-03T10:29:26.717Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "GF",
+    "currency": "TOP",
+    "amount": 8177,
+    "begin_date": "2023-06-17T21:23:54.047Z",
+    "end_date": "2025-05-20T03:22:07.298Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "SM",
+    "currency": "XFU",
+    "amount": 4388,
+    "begin_date": "2023-06-14T02:26:01.974Z",
+    "end_date": "2024-04-07T22:57:26.197Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "VI",
+    "currency": "LTL",
+    "amount": 9659,
+    "begin_date": "2023-05-08T04:14:24.146Z",
+    "end_date": "2024-08-05T12:50:58.671Z"
+  },
+  {
+    "SMC": "03G8RNY8HOU6703",
+    "country": "GI",
+    "currency": "ZWL",
+    "amount": 2457,
+    "begin_date": "2023-07-01T13:20:48.432Z",
+    "end_date": "2023-06-25T15:12:58.806Z"
+  },
+  {
+    "SMC": "UXJ5RS3S0RT8530",
+    "country": "DO",
+    "currency": "AMD",
+    "amount": 7323,
+    "begin_date": "2023-07-31T04:30:06.583Z",
+    "end_date": "2024-07-24T20:05:22.528Z"
+  },
+  {
+    "SMC": "UXJ5RS3S0RT8530",
+    "country": "LC",
+    "currency": "KWD",
+    "amount": 9458,
+    "begin_date": "2023-08-03T09:54:36.048Z",
+    "end_date": "2023-10-11T09:45:58.798Z"
+  },
+  {
+    "SMC": "HAEF0J3EERQ2764",
+    "country": "CU",
+    "currency": "ZAR",
+    "amount": 4414,
+    "begin_date": "2023-06-23T08:01:08.441Z",
+    "end_date": "2023-07-14T20:20:49.236Z"
+  },
+  {
+    "SMC": "KOUL7D18GGO6680",
+    "country": "AR",
+    "currency": "NAD",
+    "amount": 1182,
+    "begin_date": "2023-06-07T19:34:01.779Z",
+    "end_date": "2024-07-24T13:56:58.393Z"
+  },
+  {
+    "SMC": "KOUL7D18GGO6680",
+    "country": "CO",
+    "currency": "ERN",
+    "amount": 4228,
+    "begin_date": "2023-04-22T05:46:07.811Z",
+    "end_date": "2023-11-02T09:52:25.242Z"
+  },
+  {
+    "SMC": "KOUL7D18GGO6680",
+    "country": "GL",
+    "currency": "SVC",
+    "amount": 4048,
+    "begin_date": "2023-06-23T09:11:19.497Z",
+    "end_date": "2025-02-15T15:35:28.643Z"
+  },
+  {
+    "SMC": "KOUL7D18GGO6680",
+    "country": "KG",
+    "currency": "MOP",
+    "amount": 5955,
+    "begin_date": "2023-05-26T23:35:28.934Z",
+    "end_date": "2023-07-24T23:40:45.117Z"
+  },
+  {
+    "SMC": "UC0K68W7TWA9860",
+    "country": "MV",
+    "currency": "SAR",
+    "amount": 9434,
+    "begin_date": "2023-05-09T22:45:32.440Z",
+    "end_date": "2025-04-12T01:00:52.833Z"
+  },
+  {
+    "SMC": "UC0K68W7TWA9860",
+    "country": "DJ",
+    "currency": "AMD",
+    "amount": 1082,
+    "begin_date": "2023-06-08T08:11:15.341Z",
+    "end_date": "2024-05-04T14:34:14.197Z"
+  },
+  {
+    "SMC": "UC0K68W7TWA9860",
+    "country": "AX",
+    "currency": "XBB",
+    "amount": 1670,
+    "begin_date": "2023-05-16T03:14:14.364Z",
+    "end_date": "2025-03-09T23:45:26.460Z"
+  },
+  {
+    "SMC": "UC0K68W7TWA9860",
+    "country": "MN",
+    "currency": "XPT",
+    "amount": 7601,
+    "begin_date": "2023-06-15T19:58:41.107Z",
+    "end_date": "2025-05-04T00:06:51.868Z"
+  },
+  {
+    "SMC": "UC0K68W7TWA9860",
+    "country": "QA",
+    "currency": "RWF",
+    "amount": 7213,
+    "begin_date": "2023-06-14T10:33:22.824Z",
+    "end_date": "2025-02-03T07:02:26.575Z"
+  },
+  {
+    "SMC": "UC0K68W7TWA9860",
+    "country": "GP",
+    "currency": "VND",
+    "amount": 4373,
+    "begin_date": "2023-06-14T08:33:19.752Z",
+    "end_date": "2024-05-22T01:38:31.232Z"
+  },
+  {
+    "SMC": "C5SJVV9Y2173463",
+    "country": "GF",
+    "currency": "STN",
+    "amount": 3678,
+    "begin_date": "2023-05-04T18:21:08.130Z",
+    "end_date": "2023-11-13T02:14:44.802Z"
+  },
+  {
+    "SMC": "C5SJVV9Y2173463",
+    "country": "UZ",
+    "currency": "RSD",
+    "amount": 4641,
+    "begin_date": "2023-06-15T06:07:55.934Z",
+    "end_date": "2023-09-08T23:36:44.823Z"
+  },
+  {
+    "SMC": "C5SJVV9Y2173463",
+    "country": "LY",
+    "currency": "GNF",
+    "amount": 8724,
+    "begin_date": "2023-06-04T04:13:29.483Z",
+    "end_date": "2024-04-21T16:29:26.635Z"
+  },
+  {
+    "SMC": "C5SJVV9Y2173463",
+    "country": "FO",
+    "currency": "STN",
+    "amount": 9304,
+    "begin_date": "2023-07-09T20:16:54.744Z",
+    "end_date": "2023-07-31T02:39:37.019Z"
+  },
+  {
+    "SMC": "C5SJVV9Y2173463",
+    "country": "TW",
+    "currency": "KPW",
+    "amount": 4639,
+    "begin_date": "2023-05-14T17:55:37.389Z",
+    "end_date": "2023-12-23T10:11:34.163Z"
+  },
+  {
+    "SMC": "Y5XIS5FF5MO8032",
+    "country": "CL",
+    "currency": "CDF",
+    "amount": 4983,
+    "begin_date": "2023-06-10T17:11:09.472Z",
+    "end_date": "2025-04-28T18:13:59.320Z"
+  },
+  {
+    "SMC": "Y5XIS5FF5MO8032",
+    "country": "CL",
+    "currency": "PGK",
+    "amount": 8920,
+    "begin_date": "2023-05-24T05:45:01.446Z",
+    "end_date": "2023-12-22T20:15:14.800Z"
+  },
+  {
+    "SMC": "Y5XIS5FF5MO8032",
+    "country": "MV",
+    "currency": "USD",
+    "amount": 2237,
+    "begin_date": "2023-06-20T15:23:50.978Z",
+    "end_date": "2023-12-08T09:21:42.531Z"
+  },
+  {
+    "SMC": "SIOF7YZOK017820",
+    "country": "PF",
+    "currency": "UYU",
+    "amount": 5056,
+    "begin_date": "2023-06-15T01:54:16.731Z",
+    "end_date": "2024-06-15T06:04:54.408Z"
+  },
+  {
+    "SMC": "SIOF7YZOK017820",
+    "country": "YT",
+    "currency": "UAH",
+    "amount": 5998,
+    "begin_date": "2023-04-20T01:38:13.150Z",
+    "end_date": "2024-12-07T00:00:51.065Z"
+  },
+  {
+    "SMC": "MH1ISMNQHWB8365",
+    "country": "LU",
+    "currency": "AED",
+    "amount": 9186,
+    "begin_date": "2023-06-13T12:58:43.215Z",
+    "end_date": "2024-05-27T16:20:16.388Z"
+  },
+  {
+    "SMC": "MH1ISMNQHWB8365",
+    "country": "MT",
+    "currency": "PEN",
+    "amount": 6735,
+    "begin_date": "2023-07-23T13:52:25.417Z",
+    "end_date": "2023-12-27T04:34:32.601Z"
+  },
+  {
+    "SMC": "MH1ISMNQHWB8365",
+    "country": "BO",
+    "currency": "AOA",
+    "amount": 7974,
+    "begin_date": "2023-07-13T12:18:01.190Z",
+    "end_date": "2023-07-23T19:14:02.637Z"
+  },
+  {
+    "SMC": "MH1ISMNQHWB8365",
+    "country": "KZ",
+    "currency": "SGD",
+    "amount": 1816,
+    "begin_date": "2023-07-05T15:34:44.920Z",
+    "end_date": "2023-12-08T11:37:01.126Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "JP",
+    "currency": "ETB",
+    "amount": 3685,
+    "begin_date": "2023-08-01T22:08:42.838Z",
+    "end_date": "2024-06-25T07:26:00.822Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "SZ",
+    "currency": "KWD",
+    "amount": 6197,
+    "begin_date": "2023-05-22T18:19:16.118Z",
+    "end_date": "2024-08-29T14:44:04.352Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "VE",
+    "currency": "VES",
+    "amount": 5809,
+    "begin_date": "2023-05-31T00:18:50.148Z",
+    "end_date": "2025-05-22T09:01:40.636Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "HN",
+    "currency": "BGN",
+    "amount": 2023,
+    "begin_date": "2023-07-03T07:55:12.061Z",
+    "end_date": "2023-07-16T05:16:10.443Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "ZA",
+    "currency": "GEL",
+    "amount": 7550,
+    "begin_date": "2023-05-26T16:40:57.178Z",
+    "end_date": "2024-09-18T23:50:45.555Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "TZ",
+    "currency": "FJD",
+    "amount": 3032,
+    "begin_date": "2023-05-31T07:50:01.994Z",
+    "end_date": "2023-11-05T05:31:47.103Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "MS",
+    "currency": "NAD",
+    "amount": 6332,
+    "begin_date": "2023-06-03T13:43:17.331Z",
+    "end_date": "2025-01-27T02:32:43.918Z"
+  },
+  {
+    "SMC": "7M26OSW5RRE7553",
+    "country": "BZ",
+    "currency": "LVL",
+    "amount": 2673,
+    "begin_date": "2023-05-23T01:19:39.666Z",
+    "end_date": "2023-09-07T06:01:54.152Z"
+  },
+  {
+    "SMC": "QMZC53BBPZU5272",
+    "country": "KI",
+    "currency": "ETB",
+    "amount": 2268,
+    "begin_date": "2023-05-14T01:56:16.819Z",
+    "end_date": "2025-04-15T07:37:04.449Z"
+  },
+  {
+    "SMC": "D8GA9VEWFRZ4629",
+    "country": "LY",
+    "currency": "JPY",
+    "amount": 5590,
+    "begin_date": "2023-06-22T17:51:42.204Z",
+    "end_date": "2024-01-14T05:10:32.075Z"
+  },
+  {
+    "SMC": "D8GA9VEWFRZ4629",
+    "country": "AO",
+    "currency": "HTG",
+    "amount": 7592,
+    "begin_date": "2023-06-05T07:09:48.798Z",
+    "end_date": "2023-12-09T11:17:32.018Z"
+  },
+  {
+    "SMC": "D8GA9VEWFRZ4629",
+    "country": "BI",
+    "currency": "XBB",
+    "amount": 4846,
+    "begin_date": "2023-05-20T00:46:24.518Z",
+    "end_date": "2024-03-29T21:01:40.256Z"
+  },
+  {
+    "SMC": "D8GA9VEWFRZ4629",
+    "country": "CR",
+    "currency": "SCR",
+    "amount": 5661,
+    "begin_date": "2023-06-16T21:09:23.954Z",
+    "end_date": "2023-07-01T04:39:21.541Z"
+  },
+  {
+    "SMC": "U1TYXZIYC0P6331",
+    "country": "OM",
+    "currency": "STN",
+    "amount": 1377,
+    "begin_date": "2023-06-03T22:59:44.264Z",
+    "end_date": "2024-05-14T18:12:15.556Z"
+  },
+  {
+    "SMC": "U1TYXZIYC0P6331",
+    "country": "UZ",
+    "currency": "IDR",
+    "amount": 2586,
+    "begin_date": "2023-07-13T13:33:25.906Z",
+    "end_date": "2023-12-04T10:09:56.783Z"
+  },
+  {
+    "SMC": "UP4GGEUXFO65569",
+    "country": "FO",
+    "currency": "TOP",
+    "amount": 2736,
+    "begin_date": "2023-05-25T19:48:11.653Z",
+    "end_date": "2024-03-04T06:53:44.327Z"
+  },
+  {
+    "SMC": "UP4GGEUXFO65569",
+    "country": "KR",
+    "currency": "JOD",
+    "amount": 3483,
+    "begin_date": "2023-05-22T14:06:43.523Z",
+    "end_date": "2024-04-27T18:57:28.009Z"
+  },
+  {
+    "SMC": "UP4GGEUXFO65569",
+    "country": "HM",
+    "currency": "SVC",
+    "amount": 5119,
+    "begin_date": "2023-07-06T22:59:52.614Z",
+    "end_date": "2024-04-01T22:48:49.334Z"
+  },
+  {
+    "SMC": "UP4GGEUXFO65569",
+    "country": "UY",
+    "currency": "RWF",
+    "amount": 5419,
+    "begin_date": "2023-06-15T00:08:29.840Z",
+    "end_date": "2025-04-13T23:31:42.673Z"
+  },
+  {
+    "SMC": "UP4GGEUXFO65569",
+    "country": "GF",
+    "currency": "MYR",
+    "amount": 2193,
+    "begin_date": "2023-06-29T07:02:20.613Z",
+    "end_date": "2025-05-08T22:35:39.414Z"
+  },
+  {
+    "SMC": "UP4GGEUXFO65569",
+    "country": "ML",
+    "currency": "DKK",
+    "amount": 1215,
+    "begin_date": "2023-06-24T16:53:15.534Z",
+    "end_date": "2023-10-19T14:49:38.221Z"
+  },
+  {
+    "SMC": "FNF9GNR8VQO5291",
+    "country": "LS",
+    "currency": "KGS",
+    "amount": 8995,
+    "begin_date": "2023-06-20T00:38:00.785Z",
+    "end_date": "2024-10-01T20:50:53.962Z"
+  },
+  {
+    "SMC": "FNF9GNR8VQO5291",
+    "country": "MZ",
+    "currency": "BIF",
+    "amount": 2294,
+    "begin_date": "2023-06-10T13:01:09.012Z",
+    "end_date": "2023-09-21T18:33:10.973Z"
+  },
+  {
+    "SMC": "FNF9GNR8VQO5291",
+    "country": "AS",
+    "currency": "TTD",
+    "amount": 9301,
+    "begin_date": "2023-06-12T09:33:27.332Z",
+    "end_date": "2025-04-09T11:20:56.093Z"
+  },
+  {
+    "SMC": "FNF9GNR8VQO5291",
+    "country": "VE",
+    "currency": "MUR",
+    "amount": 8464,
+    "begin_date": "2023-05-19T04:29:12.755Z",
+    "end_date": "2024-02-05T20:01:50.393Z"
+  },
+  {
+    "SMC": "54XPZ8OVU1M9614",
+    "country": "IM",
+    "currency": "MWK",
+    "amount": 1295,
+    "begin_date": "2023-07-08T12:17:03.282Z",
+    "end_date": "2024-05-11T12:17:44.900Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "CM",
+    "currency": "HNL",
+    "amount": 5216,
+    "begin_date": "2023-05-28T23:15:50.547Z",
+    "end_date": "2023-10-16T03:50:10.128Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "CN",
+    "currency": "XTS",
+    "amount": 1452,
+    "begin_date": "2023-05-17T21:26:08.184Z",
+    "end_date": "2023-06-09T21:42:10.354Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "HT",
+    "currency": "CAD",
+    "amount": 7324,
+    "begin_date": "2023-05-17T10:43:38.601Z",
+    "end_date": "2024-01-25T13:28:16.002Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "BM",
+    "currency": "ZAR",
+    "amount": 5774,
+    "begin_date": "2023-06-19T17:31:51.871Z",
+    "end_date": "2024-06-24T12:37:07.119Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "CZ",
+    "currency": "MVR",
+    "amount": 8296,
+    "begin_date": "2023-06-06T17:15:31.921Z",
+    "end_date": "2024-03-18T09:37:55.924Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "VG",
+    "currency": "HTG",
+    "amount": 3845,
+    "begin_date": "2023-07-10T03:42:37.695Z",
+    "end_date": "2023-10-28T01:21:28.093Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "PH",
+    "currency": "HKD",
+    "amount": 7572,
+    "begin_date": "2023-06-18T22:13:50.618Z",
+    "end_date": "2023-08-18T21:03:28.676Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "TL",
+    "currency": "IDR",
+    "amount": 5035,
+    "begin_date": "2023-06-10T09:22:16.963Z",
+    "end_date": "2025-01-02T07:19:04.119Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "PG",
+    "currency": "HKD",
+    "amount": 5973,
+    "begin_date": "2023-06-04T00:31:20.959Z",
+    "end_date": "2023-08-20T10:55:47.762Z"
+  },
+  {
+    "SMC": "5YZH202Y5ME8279",
+    "country": "KZ",
+    "currency": "GTQ",
+    "amount": 7163,
+    "begin_date": "2023-04-30T22:33:42.421Z",
+    "end_date": "2023-11-15T14:07:59.004Z"
+  },
+  {
+    "SMC": "4AK3NJUMO724494",
+    "country": "GA",
+    "currency": "PLN",
+    "amount": 2435,
+    "begin_date": "2023-05-16T19:35:47.683Z",
+    "end_date": "2024-08-31T01:42:05.890Z"
+  },
+  {
+    "SMC": "4AK3NJUMO724494",
+    "country": "LI",
+    "currency": "MAD",
+    "amount": 2924,
+    "begin_date": "2023-07-11T19:18:43.508Z",
+    "end_date": "2024-09-19T00:38:24.230Z"
+  },
+  {
+    "SMC": "4AK3NJUMO724494",
+    "country": "BS",
+    "currency": "CUC",
+    "amount": 1940,
+    "begin_date": "2023-05-21T19:51:01.010Z",
+    "end_date": "2024-04-29T03:45:45.008Z"
+  },
+  {
+    "SMC": "4AK3NJUMO724494",
+    "country": "MN",
+    "currency": "FJD",
+    "amount": 6481,
+    "begin_date": "2023-06-14T19:53:24.298Z",
+    "end_date": "2023-08-06T09:30:32.667Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "TV",
+    "currency": "CUC",
+    "amount": 6818,
+    "begin_date": "2023-06-30T08:08:58.299Z",
+    "end_date": "2023-08-16T13:22:16.450Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "GB",
+    "currency": "GMD",
+    "amount": 5406,
+    "begin_date": "2023-07-07T19:09:59.893Z",
+    "end_date": "2025-01-01T07:43:23.626Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "IM",
+    "currency": "SHP",
+    "amount": 7769,
+    "begin_date": "2023-06-12T17:58:33.764Z",
+    "end_date": "2025-05-24T03:13:52.812Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "BM",
+    "currency": "GBP",
+    "amount": 7884,
+    "begin_date": "2023-06-18T04:11:46.078Z",
+    "end_date": "2024-04-18T17:29:28.857Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "TW",
+    "currency": "KRW",
+    "amount": 3177,
+    "begin_date": "2023-05-23T15:39:37.236Z",
+    "end_date": "2023-12-07T12:43:08.775Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "GU",
+    "currency": "AED",
+    "amount": 2306,
+    "begin_date": "2023-05-01T14:02:16.662Z",
+    "end_date": "2025-04-09T06:02:41.402Z"
+  },
+  {
+    "SMC": "23BI3MUU9AI4365",
+    "country": "UZ",
+    "currency": "VUV",
+    "amount": 3699,
+    "begin_date": "2023-06-28T12:19:56.237Z",
+    "end_date": "2025-05-01T22:38:44.322Z"
+  },
+  {
+    "SMC": "TNX2DBTR2AT1343",
+    "country": "BQ",
+    "currency": "TZS",
+    "amount": 6630,
+    "begin_date": "2023-05-23T09:16:34.831Z",
+    "end_date": "2023-07-06T19:30:46.891Z"
+  },
+  {
+    "SMC": "I7D9ZUSCWVM2008",
+    "country": "DO",
+    "currency": "TJS",
+    "amount": 5404,
+    "begin_date": "2023-05-14T23:36:10.167Z",
+    "end_date": "2023-11-19T12:35:00.993Z"
+  },
+  {
+    "SMC": "I7D9ZUSCWVM2008",
+    "country": "AZ",
+    "currency": "GHS",
+    "amount": 7079,
+    "begin_date": "2023-05-31T10:12:43.500Z",
+    "end_date": "2023-12-27T11:18:11.949Z"
+  },
+  {
+    "SMC": "I7D9ZUSCWVM2008",
+    "country": "SO",
+    "currency": "SEK",
+    "amount": 6508,
+    "begin_date": "2023-06-10T01:24:21.970Z",
+    "end_date": "2025-04-01T14:29:22.124Z"
+  },
+  {
+    "SMC": "G4PU21A884P4168",
+    "country": "BO",
+    "currency": "MAD",
+    "amount": 1949,
+    "begin_date": "2023-07-19T11:56:59.942Z",
+    "end_date": "2023-07-27T12:21:06.817Z"
+  },
+  {
+    "SMC": "G4PU21A884P4168",
+    "country": "NE",
+    "currency": "AUD",
+    "amount": 6893,
+    "begin_date": "2023-06-15T11:29:23.846Z",
+    "end_date": "2024-04-22T10:23:31.525Z"
+  },
+  {
+    "SMC": "G4PU21A884P4168",
+    "country": "RS",
+    "currency": "AOA",
+    "amount": 4317,
+    "begin_date": "2023-06-25T20:56:58.201Z",
+    "end_date": "2024-12-01T22:51:27.059Z"
+  },
+  {
+    "SMC": "G4PU21A884P4168",
+    "country": "MT",
+    "currency": "KMF",
+    "amount": 5417,
+    "begin_date": "2023-06-13T13:43:25.541Z",
+    "end_date": "2024-05-21T13:40:24.579Z"
+  },
+  {
+    "SMC": "G4PU21A884P4168",
+    "country": "IS",
+    "currency": "BOB",
+    "amount": 5799,
+    "begin_date": "2023-06-23T12:26:26.121Z",
+    "end_date": "2023-07-18T18:17:04.912Z"
+  },
+  {
+    "SMC": "FMAVQZAM49P9052",
+    "country": "MN",
+    "currency": "RON",
+    "amount": 6986,
+    "begin_date": "2023-07-30T18:59:08.821Z",
+    "end_date": "2024-01-02T13:30:54.316Z"
+  },
+  {
+    "SMC": "FMAVQZAM49P9052",
+    "country": "UZ",
+    "currency": "PHP",
+    "amount": 2864,
+    "begin_date": "2023-06-10T18:01:42.355Z",
+    "end_date": "2025-05-15T19:39:28.077Z"
+  },
+  {
+    "SMC": "FMAVQZAM49P9052",
+    "country": "FK",
+    "currency": "GBP",
+    "amount": 4555,
+    "begin_date": "2023-06-28T10:39:39.346Z",
+    "end_date": "2024-10-18T17:49:14.172Z"
+  },
+  {
+    "SMC": "FMAVQZAM49P9052",
+    "country": "MZ",
+    "currency": "HRK",
+    "amount": 4669,
+    "begin_date": "2023-06-05T04:56:16.075Z",
+    "end_date": "2023-12-16T06:25:33.413Z"
+  },
+  {
+    "SMC": "FMAVQZAM49P9052",
+    "country": "DZ",
+    "currency": "BGN",
+    "amount": 5014,
+    "begin_date": "2023-06-26T00:12:11.213Z",
+    "end_date": "2024-05-16T17:06:48.617Z"
+  },
+  {
+    "SMC": "HQF5AQST0PA2334",
+    "country": "DO",
+    "currency": "KPW",
+    "amount": 5949,
+    "begin_date": "2023-06-15T00:25:44.658Z",
+    "end_date": "2023-11-23T02:49:32.151Z"
+  },
+  {
+    "SMC": "HQF5AQST0PA2334",
+    "country": "SN",
+    "currency": "BYN",
+    "amount": 7375,
+    "begin_date": "2023-06-09T03:47:23.808Z",
+    "end_date": "2024-12-25T00:23:50.395Z"
+  },
+  {
+    "SMC": "LXTEZ81334V3511",
+    "country": "GH",
+    "currency": "XCD",
+    "amount": 4673,
+    "begin_date": "2023-05-21T18:45:21.307Z",
+    "end_date": "2023-08-08T19:05:18.850Z"
+  }
+]

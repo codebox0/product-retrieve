@@ -1,0 +1,786 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "REST API for Swagger Documentation",
+    "version": "1.0.0"
+  },
+  "servers": [
+    {
+      "url": "http://localhost:8080/"
+    }
+  ],
+  "paths": {
+    "/users": {
+      "get": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Get all users",
+        "description": "Get all users from the database.",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "required": [
+                      "id"
+                    ],
+                    "properties": {
+                      "id": {
+                        "type": "string"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Create a new user",
+        "description": "Create a new user in the database.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserSchema"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/users/{id}": {
+      "get": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Get a user by id",
+        "description": "Get a user by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the user to get",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+
+                  "$ref": "#/components/schemas/UserSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      },
+      "patch": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Update a user by id",
+        "description": "Update a user by id in the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the user to update",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UserSchema"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Delete a user by id",
+        "description": "Delete a user by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the user to delete",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/users/canAccessPlace": {
+      "post": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Check if user can access places",
+        "description": "Check if user can access places.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CanAccessSchema"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/users/{id}/placeList": {
+      "get": {
+        "tags": [
+          "UserEndpoints"
+        ],
+        "summary": "Get a place list by id",
+        "description": "Get a place list by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the place list to get",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/UserSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/places": {
+      "get": {
+        "tags": [
+          "PlaceEndpoints"
+        ],
+        "summary": "Get all places",
+        "description": "Get all places from the database.",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PlaceSchema"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "PlaceEndpoints"
+        ],
+        "summary": "Create a new place",
+        "description": "Create a new place in the database.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PlaceSchema"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PlaceSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/places/{id}": {
+      "get": {
+        "tags": [
+          "PlaceEndpoints"
+        ],
+        "summary": "Get a place by id",
+        "description": "Get a place by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the place to get",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PlaceSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "PlaceEndpoints"
+        ],
+        "summary": "Delete a place by id",
+        "description": "Delete a place by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the place to delete",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PlaceSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/pass": {
+      "post": {
+        "tags": [
+          "PassEndpoints"
+        ],
+        "summary": "Create a pass",
+        "description": "Create a pass for a user.",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/PassSchema"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PassSchema"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad request"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      },
+      "get": {
+        "tags": [
+          "PassEndpoints"
+        ],
+        "summary": "Get all passes",
+        "description": "Get all passes from the database.",
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/PassSchema"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/pass/{id}": {
+      "get": {
+        "tags": [
+          "PassEndpoints"
+        ],
+        "summary": "Get a pass by id",
+        "description": "Get a pass by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the pass to get",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PassSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "PassEndpoints"
+        ],
+        "summary": "Delete a pass by id",
+        "description": "Delete a pass by id from the database.",
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "description": "ID of the pass to delete",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/PassSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/token": {
+      "post": {
+        "tags": [
+          "TokenEndpoints"
+        ],
+        "summary": "Generate a token",
+        "description": "Generate a token for a user.",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/TokenSchema"
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Success",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/TokenSchema"
+                }
+              }
+            }
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    },
+    "/initDatabase": {
+      "get": {
+        "tags": [
+          "InitDatabaseEndpoints"
+        ],
+        "summary": "Initialize the database",
+        "description": "Initialize the database with some data.",
+        "responses": {
+          "200": {
+            "description": "Success"
+          },
+          "404": {
+            "description": "Not found"
+          },
+          "500": {
+            "description": "Internal server error"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "securitySchemes": {
+      "bearerAuth": {
+        "type": "http",
+        "scheme": "bearer",
+        "bearerFormat": "JWT"
+      }
+    },
+    "schemas": {
+      "UserSchema": {
+        "description": "User schema",
+        "required": [
+          "firstName",
+          "lastName",
+          "age",
+          "phoneNumber",
+          "address"
+        ],
+        "type": "object",
+        "properties": {
+          "pass_id": {
+            "type": "string",
+            "description": "ID of the pass",
+            "example": "5f9f1c9b0b9b9c0b5c1c1c1c"
+          },
+          "firstName": {
+            "type": "string",
+            "example": "John",
+            "minLength": 1,
+            "maxLength": 255,
+            "pattern": "^[a-zA-Z]+$",
+            "description": "First name of the user",
+            "default": "John"
+          },
+          "lastName": {
+            "type": "string",
+            "example": "Doe",
+            "minLength": 1,
+            "maxLength": 255,
+            "pattern": "^[a-zA-Z]+$",
+            "description": "Last name of the user",
+            "default": "Doe"
+          },
+          "age": {
+            "type": "integer",
+            "format": "int32",
+            "minimum": 10,
+            "maximum": 150,
+            "description": "Age of the user",
+            "example": 18,
+            "default": 18
+          },
+          "phoneNumber": {
+            "type": "string",
+            "format": "phone",
+            "pattern": "^[0-9]{10}$",
+            "example": "0123456789",
+            "description": "Phone number of the user"
+          },
+          "address": {
+            "type": "string",
+            "example": "1 rue de la paix",
+            "minLength": 1,
+            "maxLength": 255,
+            "pattern": "^[a-zA-Z0-9 ]+$",
+            "description": "Address of the user"
+          }
+        }
+      },
+      "CanAccessSchema": {
+        "description": "User schema",
+        "required": [
+          "userId",
+          "placeId"
+        ],
+        "type": "object",
+        "properties": {
+          "userId": {
+            "type": "string",
+            "description": "ID of the user",
+            "example": "5f9f1c9b0b9b9c0b5c1c1c1c"
+          },
+          "placeId": {
+            "type": "string",
+            "description": "ID of the place",
+            "example": "5f9f1c9b0b9b9c0b5c1c1c1c"
+          }
+        }
+      },
+
+      "PassSchema": {
+        "description": "Pass schema",
+        "required": [
+          "level"
+        ],
+        "type": "object",
+        "properties": {
+          "level": {
+            "type": "integer",
+            "example": 1,
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Level of the pass"
+          }
+        }
+      },
+      "PlaceSchema": {
+        "description": "Place schema",
+        "required": [
+          "address",
+          "phoneNumber",
+          "require_pass_level",
+          "require_age_level"
+        ],
+        "type": "object",
+        "properties": {
+          "address": {
+            "type": "string",
+            "example": "1 rue de la paix",
+            "minLength": 1,
+            "maxLength": 255,
+            "pattern": "^[a-zA-Z0-9 ]+$",
+            "description": "Address of the place"
+          },
+          "phoneNumber": {
+            "type": "string",
+            "format": "phone",
+            "pattern": "^[0-9]{10}$",
+            "example": "0123456789",
+            "description": "Phone number of the place"
+          },
+          "require_pass_level": {
+            "type": "integer",
+            "example": 1,
+            "minimum": 1,
+            "maximum": 5,
+            "description": "Level of the pass required to enter the place"
+          },
+          "require_age_level": {
+            "type": "integer",
+            "example": 1,
+            "minimum": 1,
+            "maximum": 125,
+            "description": "Level of the age required to enter the place"
+          }
+        }
+      },
+      "TokenSchema": {
+        "description": "Token schema",
+        "required": [
+          "firstName",
+          "lastName"
+        ],
+        "type": "object",
+        "properties": {
+          "firstName": {
+            "type": "string",
+            "example": "John",
+            "minLength": 1,
+            "maxLength": 255,
+            "pattern": "^[a-zA-Z]+$",
+            "description": "First name of the user",
+            "default": "John"
+          },
+          "lastName": {
+            "type": "string",
+            "example": "Doe",
+            "minLength": 1,
+            "maxLength": 255,
+            "pattern": "^[a-zA-Z]+$",
+            "description": "Last name of the user",
+            "default": "Doe"
+          }
+        }
+      }
+    }
+  },
+  "security": [
+    {
+      "bearerAuth": []
+    }
+  ]
+}

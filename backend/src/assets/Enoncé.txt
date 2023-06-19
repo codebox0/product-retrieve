@@ -1,0 +1,47 @@
+- Objectif:
+
+Construire une application qui permette de récupérer un produit enrichi.
+
+- Données fournies :
+
+Fichier product.json contenant une liste de produits :
+style               string      required    Type de produit (sac, manteau, etc)
+material            string      required    Matière du produit 
+color               string      required    Couleur du produit
+sizes               string[]    required    Tailles du produit
+name                string      required    Nom du produit
+description         string      optional    Description du produit
+images              string[]    optional    Images du produit
+sellable_retail     boolean     optional    Est-ce que le produit peut être vendu en magasin
+sellable_ecom       boolean     optional    Est-ce que le produit peut être vendu en ligne
+sellable_in         string[]    optional    Pays dans lesquels le produit peut être vendu
+
+Fichier prices.json contenant une liste de prix :
+SMC                 string      required     Code produit sur lequel s'applique le prix
+country             string      required     Pays dans lequel s'applique le prix 
+currency            string      required     Devise du prix
+amount              number      required     Montant
+begin_date          string      required     Date à laquelle le prix est appliqué
+end_date            string      required     Date à laquelle le prix n'est plus appliqué
+
+- Exercice :
+
+Sur une page web, un formulaire affiche un champ texate et une liste déroulante. L'utilisateur peur entrer un code SMC dans le champ texte, sélectionner un pays dans la liste déroulante et valider l'envoi du formulaire.
+Résultats attendus :
+1. si le produit est incomplet, un message d'erreur s'affiche : "Produit non trouvé"
+2. si le produit n'est pas vendable dans le pays sélectionné, un message d'erreur s'affiche : "Produit indisponible dans ce pays : <nom du pays>"
+3. si le produit est complet et vendable, le produit s'affiche dans la page avec son prix actuel.
+4. dans tout autre cas, un message d'erreur s'affiche : "Une erreur s'est produite"
+
+- Règles métier :
+
+Le code SMC correspond à la concaténation de Style (6 caractères alphanumériques), Material (5 caractères alphanumériques) et Color (4 caractères numériques).
+
+Un produit est complet si :
+• tous les champs obligatoires sont remplis
+• la description est remplie
+• au moins une image est disponible
+• il est vendable en ligne ou en magasin
+• il est vendable dans au moins un pays
+
+Le prix actuel correspond au prix qui commence avant maintenant et finit après maintenant.
