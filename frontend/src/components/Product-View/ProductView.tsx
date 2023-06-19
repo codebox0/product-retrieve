@@ -25,7 +25,6 @@ const ProductView = ({product}: { product: ProductDto }) => {
                     }
                     </span>
                 </span>
-                    <hr/>
                 </>
             )
         }

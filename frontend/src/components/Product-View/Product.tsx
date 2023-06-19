@@ -26,7 +26,7 @@ const Product = () => {
                             : <ProductView product={product}/>
                         :
                         product=== 0 ?
-                        'Search product in the search bar'
+                            <ProductError message={'Search product in the search bar'}/>
                             : <ProductError message={'Une erreur s\'est produite'}/>
                 }
             </div>
